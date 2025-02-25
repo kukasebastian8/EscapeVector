@@ -8251,3 +8251,136 @@ Make sure '/Game/ThirdPerson/UI/PauseMenu.PauseMenu_C' has been compiled for  Se
 [2025.02.25-23.30.26:763][674]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
 [2025.02.25-23.30.26:770][674]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
 [2025.02.25-23.30.26:806][675]LogPlayLevel: Display: Destroying online subsystem :Context_81
+[2025.02.25-23.34.18:628][122]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11464.836914
+[2025.02.25-23.34.19:627][125]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.25-23.34.19:627][125]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11465.502930, Update Interval: 307.326263
+[2025.02.25-23.37.49:996][237]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/sci-fi-drone/BP_Drone.BP_Drone
+[2025.02.25-23.37.49:997][237]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_77
+[2025.02.25-23.38.04:373][913]LogSlate: Window 'Reparent Blueprint' being destroyed
+[2025.02.25-23.38.04:384][913]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/sci-fi-drone/BP_Drone.BP_Drone from Character to Pawn...
+[2025.02.25-23.38.04:453][913]LogBlueprint: Warning: USimpleConstructionScript::FixupRootNodeParentReferences() - Couldn't find native parent component 'CollisionCylinder' for 'SpringArm' in BlueprintGeneratedClass 'BP_Drone_C' (it may have been removed)
+[2025.02.25-23.38.04:453][913]LogBlueprint: Warning: USimpleConstructionScript::FixupRootNodeParentReferences() - Couldn't find native parent component 'CollisionCylinder' for 'SkeletalMesh' in BlueprintGeneratedClass 'BP_Drone_C' (it may have been removed)
+[2025.02.25-23.38.04:536][913]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.02.25-23.38.07:835][118]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.25-23.38.07:852][118]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/sci-fi-drone/BP_Drone] ([2] browsable assets)...
+[2025.02.25-23.38.07:905][118]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/sci-fi-drone/BP_Drone.BP_Drone]
+[2025.02.25-23.38.07:905][118]OBJ SavePackage: Finished generating thumbnails for package [/Game/sci-fi-drone/BP_Drone]
+[2025.02.25-23.38.07:918][118]LogSavePackage: Moving output files for package: /Game/sci-fi-drone/BP_Drone
+[2025.02.25-23.38.07:919][118]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/BP_DroneB40B1B9F4AA545F6B87421874BCA21CA.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/sci-fi-drone/BP_Drone.uasset'
+[2025.02.25-23.38.07:926][118]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.024 ms (total: 4.73 sec)
+[2025.02.25-23.38.07:951][118]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.25-23.38.07:951][118]LogContentValidation: Enabled validators:
+[2025.02.25-23.38.07:951][118]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.25-23.38.07:951][118]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.25-23.38.07:951][118]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.25-23.38.07:951][118]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.25-23.38.07:951][118]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.25-23.38.07:951][118]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.25-23.38.07:951][118]AssetCheck: /Game/sci-fi-drone/BP_Drone Validating asset
+[2025.02.25-23.38.46:160][997]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.02.25-23.38.46:919][ 44]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.25-23.38.46:947][ 44]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/UI/MainMenu_WB] ([2] browsable assets)...
+[2025.02.25-23.38.46:950][ 44]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/ThirdPerson/UI/MainMenu_WB.MainMenu_WB]
+[2025.02.25-23.38.46:950][ 44]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/UI/MainMenu_WB]
+[2025.02.25-23.38.46:959][ 44]LogSavePackage: Moving output files for package: /Game/ThirdPerson/UI/MainMenu_WB
+[2025.02.25-23.38.46:960][ 44]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/MainMenu_WBC0C5F3394EC9FB2173179CBF626FC041.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/ThirdPerson/UI/MainMenu_WB.uasset'
+[2025.02.25-23.38.46:967][ 44]LogFileHelpers: InternalPromptForCheckoutAndSave took 48.271 ms (total: 4.78 sec)
+[2025.02.25-23.38.46:991][ 44]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.25-23.38.46:991][ 44]LogContentValidation: Enabled validators:
+[2025.02.25-23.38.46:991][ 44]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.25-23.38.46:991][ 44]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.25-23.38.46:991][ 44]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.25-23.38.46:991][ 44]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.25-23.38.46:991][ 44]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.25-23.38.46:991][ 44]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.25-23.38.46:992][ 44]AssetCheck: /Game/ThirdPerson/UI/MainMenu_WB Validating asset
+[2025.02.25-23.38.49:818][251]LogWorld: UWorld::CleanupWorld for World_77, bSessionEnded=true, bCleanupResources=true
+[2025.02.25-23.38.49:818][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.25-23.38.49:919][251]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.02.25-23.38.54:546][644]LogSlate: Window 'MainMenuMap' being destroyed
+[2025.02.25-23.38.54:550][644]LogSlate: Window 'MainMenuMap' being destroyed
+[2025.02.25-23.38.54:599][644]LogWorld: UWorld::CleanupWorld for World_69, bSessionEnded=true, bCleanupResources=true
+[2025.02.25-23.38.54:599][644]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.25-23.38.54:607][644]LogWorld: UWorld::CleanupWorld for World_68, bSessionEnded=true, bCleanupResources=true
+[2025.02.25-23.38.54:607][644]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.25-23.38.54:680][644]LogWorld: UWorld::CleanupWorld for World_72, bSessionEnded=true, bCleanupResources=true
+[2025.02.25-23.38.54:680][644]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.25-23.38.54:690][644]LogWorld: UWorld::CleanupWorld for World_71, bSessionEnded=true, bCleanupResources=true
+[2025.02.25-23.38.54:690][644]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.25-23.38.54:739][644]LogWorld: UWorld::CleanupWorld for World_74, bSessionEnded=true, bCleanupResources=true
+[2025.02.25-23.38.54:740][644]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.25-23.38.54:817][644]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.02.25-23.38.56:505][833]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.25-23.38.56:513][833]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.25-23.38.56:538][833]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UIMaps/UEDPIE_0_MainMenuMap
+[2025.02.25-23.38.56:539][833]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001089s)
+[2025.02.25-23.38.56:539][833]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/UIMaps/MainMenuMap.MainMenuMap to /Game/ThirdPerson/Maps/UIMaps/UEDPIE_0_MainMenuMap.MainMenuMap (0.001129s)
+[2025.02.25-23.38.56:560][833]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.02.25-23.38.56:562][833]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenuMap
+[2025.02.25-23.38.56:563][833]LogPlayLevel: PIE: World Init took: (0.001608s)
+[2025.02.25-23.38.56:564][833]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2025.02.25-23.38.56:564][833]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.25-23.38.56:564][833]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.25-23.38.56:564][833]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.25-23.38.56:564][833]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.25-23.38.56:564][833]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.25-23.38.56:564][833]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.25-23.38.56:564][833]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.25-23.38.56:564][833]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.25-23.38.56:564][833]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.25-23.38.56:564][833]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.25-23.38.56:564][833]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.25-23.38.56:567][833]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.25-23.38.56:585][833]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Soundcore Life Tune Stereo)
+[2025.02.25-23.38.56:585][833]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.25-23.38.56:585][833]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.25-23.38.56:585][833]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.25-23.38.56:585][833]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=37
+[2025.02.25-23.38.56:585][833]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=37
+[2025.02.25-23.38.56:588][833]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=37
+[2025.02.25-23.38.56:588][833]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=37
+[2025.02.25-23.38.56:588][833]LogInit: FAudioDevice initialized with ID 37.
+[2025.02.25-23.38.56:588][833]LogAudio: Display: Audio Device (ID: 37) registered with world 'MainMenuMap'.
+[2025.02.25-23.38.56:588][833]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 37
+[2025.02.25-23.38.56:590][833]LogLoad: Game class is 'MenuGamemode_C'
+[2025.02.25-23.38.56:591][833]LogWorld: Bringing World /Game/ThirdPerson/Maps/UIMaps/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 0) at 2025.02.25-18.38.56
+[2025.02.25-23.38.56:591][833]LogWorld: Bringing up level for play took: 0.000400
+[2025.02.25-23.38.56:593][833]LogOnline: OSS: Created online subsystem instance for: :Context_83
+[2025.02.25-23.38.56:595][833]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.02.25-23.38.56:595][833]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.02.25-23.38.56:596][833]PIE: Server logged in
+[2025.02.25-23.38.56:597][833]PIE: Play in editor total start time 0.085 seconds.
+[2025.02.25-23.38.59:235][137]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.02.25-23.38.59:235][137]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.02.25-23.38.59:236][137]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/ThirdPerson/Maps/TutorialMap"
+[2025.02.25-23.38.59:236][137]LogNet: Browse: /Game/ThirdPerson/Maps/TutorialMap
+[2025.02.25-23.38.59:236][137]LogLoad: LoadMap: /Game/ThirdPerson/Maps/TutorialMap
+[2025.02.25-23.38.59:236][137]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UIMaps/UEDPIE_0_MainMenuMap
+[2025.02.25-23.38.59:237][137]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.25-23.38.59:237][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.25-23.38.59:279][137]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.25-23.38.59:281][137]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.02.25-23.38.59:283][137]LogStreaming: Display: FlushAsyncLoading(2246): 1 QueuedPackages, 0 AsyncPackages
+[2025.02.25-23.38.59:286][137]LogAudio: Display: Audio Device (ID: 37) registered with world 'TutorialMap'.
+[2025.02.25-23.38.59:286][137]LogChaosDD: Creating Chaos Debug Draw Scene for world TutorialMap
+[2025.02.25-23.38.59:287][137]LogPlayLevel: PIE: World Init took: (0.001479s)
+[2025.02.25-23.38.59:287][137]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.02.25-23.38.59:289][137]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2025.02.25-18.38.59
+[2025.02.25-23.38.59:289][137]LogWorld: Bringing up level for play took: 0.000970
+[2025.02.25-23.38.59:290][137]LogLoad: Took 0.054962 seconds to LoadMap(/Game/ThirdPerson/Maps/TutorialMap)
+[2025.02.25-23.38.59:290][137]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/ThirdPerson/Maps/TutorialMap
+[2025.02.25-23.39.20:888][126]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.25-23.39.20:888][126]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_TutorialMap
+[2025.02.25-23.39.20:889][126]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.25-23.39.20:889][126]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.25-23.39.20:892][126]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.25-23.39.20:900][126]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.25-23.39.20:921][126]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.25-23.39.20:922][126]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 37
+[2025.02.25-23.39.20:922][126]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2025.02.25-23.39.20:924][126]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2025.02.25-23.39.20:930][126]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.02.25-23.39.20:967][127]LogPlayLevel: Display: Destroying online subsystem :Context_83
+[2025.02.25-23.40.13:006][140]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11819.125977
+[2025.02.25-23.40.14:007][143]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.25-23.40.14:007][143]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11819.791992, Update Interval: 307.432465
