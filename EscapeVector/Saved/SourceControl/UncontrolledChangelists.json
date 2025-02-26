@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/ThirdPerson/UI/MainMenu_WB.uasset",
+				"C:/Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/ThirdPerson/UI/EscapeVectorTitleScreen.uasset",
+				"C:/Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/ThirdPerson/UI/ControlsMenu_WB.uasset",
+				"C:/Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/ThirdPerson/Maps/UIMaps/MainMenuMap.umap",
+				"C:/Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/ThirdPerson/UI/PauseMenu_WB.uasset",
 				"/Users/ilvipeshku/Desktop/EscapeVector/EscapeVector/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset",
 				"/Users/ilvipeshku/Desktop/EscapeVector/EscapeVector/Content/drone_gltf/Material_baseColor.uasset",
 				"/Users/ilvipeshku/Desktop/EscapeVector/EscapeVector/Content/drone_gltf/Material_001_emissive.uasset",
