@@ -2475,3 +2475,87 @@ FPackageName: Skipped package /Game/StarterContent/Maps/Advanced_Lighting_BuiltD
 [2025.03.28-18.32.03:398][138]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 626.948975, Update Interval: 343.747070
 [2025.03.28-18.33.01:484][627]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
 [2025.03.28-18.33.01:486][627]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/TutorialMap' took 0.016
+[2025.03.28-18.34.34:609][293]LogFab: Display: Delete persist auth
+[2025.03.28-18.34.34:611][293]LogEOSSDK: Warning: LogEOSAuth: No existing persistent auth credentials were found for automatic login.
+[2025.03.28-18.34.34:625][294]LogFab: Display: Persistent auth not found - unable to delete
+[2025.03.28-18.34.36:126][424]LogEOSSDK: Error: LogEOS: EOS_Auth_CopyUserAuthToken - One or more parameters are null
+[2025.03.28-18.34.36:126][424]LogFab: Error: User auth token is invalid - unable to get auth token
+[2025.03.28-18.35.11:524][474]LogFab: Display: Logging in using account portal
+[2025.03.28-18.35.11:525][474]LogEOSSDK: LogEOSAuth: BeginDesktopCrossplayLogin: Desktop crossplay can be used with this login type
+[2025.03.28-18.35.11:525][474]LogEOSSDK: Warning: LogEOSAuth: BeginDesktopCrossplayLogin: Desktop crossplay is not ready: EOS_DesktopCrossplay_ApplicationNotBootstrapped
+[2025.03.28-18.35.11:525][474]LogEOSSDK: LogEOSAuth: BeginDesktopCrossplayLogin: Desktop crossplay is not required for login
+[2025.03.28-18.35.11:616][482]LogEOSSDK: LogEOSAuth: GenerateUserAuthByDeviceCode: Received FUserAuthToken
+[2025.03.28-18.35.11:627][483]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Device auth to be continued at: <Redacted>
+[2025.03.28-18.35.11:627][483]LogEOSSDK: Warning: LogEOSAuth: UserAuthGenerated: Account Portal overlay failed to load for device auth continuation; falling back to browser based flow
+[2025.03.28-18.35.11:627][483]LogEOSSDK: LogEOSAuth: LaunchAccountPortalWithPlatformBrowser: Launching with platform browser: <Redacted>
+[2025.03.28-18.35.11:631][483]LogEOSSDK: LogEOSAuth: LaunchAccountPortalWithPlatformBrowser: Successfully launched with platform browser
+[2025.03.28-18.35.11:701][489]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[OAuth], OperationName=[TokenGrantv2], Url=[<Redacted>], HttpStatus=[400], ErrorCode=[errors.com.epicgames.account.oauth.authorization_pending], NumericErrorCode=[1012], ErrorMessage=[The authorization server request is still pending as the end user has yet to visit and enter the verification code.], CorrId=[EOS-bR1MzM_CtEKBiwdvxHTCcA-SeaTtJsJA0mI87w3LYNg3w]
+[2025.03.28-18.35.22:149][531]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[OAuth], OperationName=[TokenGrantv2], Url=[<Redacted>], HttpStatus=[400], ErrorCode=[errors.com.epicgames.account.oauth.authorization_pending], NumericErrorCode=[1012], ErrorMessage=[The authorization server request is still pending as the end user has yet to visit and enter the verification code.], CorrId=[EOS-bR1MzM_CtEKBiwdvxHTCcA-9AVUXDp8pEWJ9DQvlx-Xxg]
+[2025.03.28-18.35.32:196][563]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[OAuth], OperationName=[TokenGrantv2], Url=[<Redacted>], HttpStatus=[400], ErrorCode=[errors.com.epicgames.account.oauth.authorization_pending], NumericErrorCode=[1012], ErrorMessage=[The authorization server request is still pending as the end user has yet to visit and enter the verification code.], CorrId=[EOS-bR1MzM_CtEKBiwdvxHTCcA-w04VTNuk_E6MuYDoijYe1A]
+[2025.03.28-18.35.35:388][839]LogSlate: Window 'Fab' being destroyed
+[2025.03.28-18.35.35:415][839]LogSlate: Window 'Fab' being destroyed
+[2025.03.28-18.35.36:889][971]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2025.03.28-18.35.36:889][971]LogWebBrowser: Deleting browser for Url=https://www.fab.com/plugins/ue5/listings/a6ab4843-7c8a-47d1-912c-fc1c3553df23.
+[2025.03.28-18.35.39:875][226]LogEOSSDK: Error: LogEOS: EOS_Auth_CopyUserAuthToken - One or more parameters are null
+[2025.03.28-18.35.39:875][226]LogFab: Error: User auth token is invalid - unable to get auth token
+[2025.03.28-18.35.42:254][431]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[OAuth], OperationName=[TokenGrantv2], Url=[<Redacted>], HttpStatus=[400], ErrorCode=[errors.com.epicgames.account.oauth.authorization_pending], NumericErrorCode=[1012], ErrorMessage=[The authorization server request is still pending as the end user has yet to visit and enter the verification code.], CorrId=[EOS-bR1MzM_CtEKBiwdvxHTCcA-V4RdlciZBECvP73fKg4a7w]
+[2025.03.28-18.35.42:506][454]LogSlate: Window 'Fab' being destroyed
+[2025.03.28-18.35.42:536][454]LogSlate: Window 'Fab' being destroyed
+[2025.03.28-18.35.44:013][572]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2025.03.28-18.35.44:013][572]LogWebBrowser: Deleting browser for Url=https://www.fab.com/plugins/ue5/.
+[2025.03.28-18.35.48:963][  0]LogEOSSDK: Error: LogEOS: EOS_Auth_CopyUserAuthToken - One or more parameters are null
+[2025.03.28-18.35.48:963][  0]LogFab: Error: User auth token is invalid - unable to get auth token
+[2025.03.28-18.35.52:301][289]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[OAuth], OperationName=[TokenGrantv2], Url=[<Redacted>], HttpStatus=[400], ErrorCode=[errors.com.epicgames.account.oauth.authorization_pending], NumericErrorCode=[1012], ErrorMessage=[The authorization server request is still pending as the end user has yet to visit and enter the verification code.], CorrId=[EOS-bR1MzM_CtEKBiwdvxHTCcA-rtXrBi_7ikqfv8tVjjRPFw]
+[2025.03.28-18.36.01:149][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.03.28-18.36.06:108][ 56]LogSlate: Window 'Save Content' being destroyed
+[2025.03.28-18.36.06:117][ 56]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.28-18.36.06:166][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.03.28-18.36.06:173][ 56]LogFileHelpers: InternalPromptForCheckoutAndSave took 57.078 ms (total: 331.056 ms)
+[2025.03.28-18.36.06:239][ 58]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[OAuth], OperationName=[TokenGrantv2], Url=[<Redacted>], HttpStatus=[400], ErrorCode=[errors.com.epicgames.account.oauth.authorization_pending], NumericErrorCode=[1012], ErrorMessage=[The authorization server request is still pending as the end user has yet to visit and enter the verification code.], CorrId=[EOS-bR1MzM_CtEKBiwdvxHTCcA-ahfRTUXLv06e2vXgO5KfTw]
+[2025.03.28-18.36.16:294][932]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[OAuth], OperationName=[TokenGrantv2], Url=[<Redacted>], HttpStatus=[400], ErrorCode=[errors.com.epicgames.account.oauth.authorization_pending], NumericErrorCode=[1012], ErrorMessage=[The authorization server request is still pending as the end user has yet to visit and enter the verification code.], CorrId=[EOS-bR1MzM_CtEKBiwdvxHTCcA-F59f-ijj0kuI_S-ICXCUGg]
+[2025.03.28-18.36.26:341][812]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[OAuth], OperationName=[TokenGrantv2], Url=[<Redacted>], HttpStatus=[400], ErrorCode=[errors.com.epicgames.account.oauth.authorization_pending], NumericErrorCode=[1012], ErrorMessage=[The authorization server request is still pending as the end user has yet to visit and enter the verification code.], CorrId=[EOS-bR1MzM_CtEKBiwdvxHTCcA-f0ogvtIIiEybuK6dP6qIyg]
+[2025.03.28-18.36.36:392][700]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[OAuth], OperationName=[TokenGrantv2], Url=[<Redacted>], HttpStatus=[400], ErrorCode=[errors.com.epicgames.account.oauth.authorization_pending], NumericErrorCode=[1012], ErrorMessage=[The authorization server request is still pending as the end user has yet to visit and enter the verification code.], CorrId=[EOS-bR1MzM_CtEKBiwdvxHTCcA-TqKk-eAarEurAYNoRzHYaw]
+[2025.03.28-18.36.44:846][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.03.28-18.36.48:291][447]LogSlate: Window 'Save Content' being destroyed
+[2025.03.28-18.36.48:358][449]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[OAuth], OperationName=[TokenGrantv2], Url=[<Redacted>], HttpStatus=[400], ErrorCode=[errors.com.epicgames.account.oauth.authorization_pending], NumericErrorCode=[1012], ErrorMessage=[The authorization server request is still pending as the end user has yet to visit and enter the verification code.], CorrId=[EOS-bR1MzM_CtEKBiwdvxHTCcA-jG7Hq9DRLkuHc0jbuJDs_w]
+[2025.03.28-18.36.51:843][735]LogStreaming: Display: FlushAsyncLoading(714): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.28-18.36.51:889][735]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.03.28-18.36.51:890][735]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.03.28-18.36.51:890][735]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.28-18.36.51:890][735]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.28-18.36.51:892][735]LogWorldPartition: Display: WorldPartition initialize took 2.424 ms (total: 995.660 ms)
+[2025.03.28-18.36.51:901][735]LogObjectTools: Deleting 1 worlds: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2025.03.28-18.36.51:901][735]LogObjectTools: Currently 16 active worlds: /Game/ThirdPerson/Maps/TutorialMap.TutorialMap, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8, /Engine/Transient.World_9, /Engine/Transient.World_10, /Engine/Transient.World_11, /Engine/Transient.World_12, /Engine/Transient.World_13, /Engine/Transient.World_14
+[2025.03.28-18.36.51:915][735]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.03.28-18.37.07:085][735]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.28-18.37.07:090][735]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.28-18.37.07:090][735]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.28-18.37.07:090][735]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2025.03.28-18.37.07:141][735]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.03.28-18.37.07:154][735]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.03.28-18.37.07:167][735]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.03.28-18.37.07:299][737]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[OAuth], OperationName=[TokenGrantv2], Url=[<Redacted>], HttpStatus=[400], ErrorCode=[errors.com.epicgames.account.oauth.authorization_pending], NumericErrorCode=[1012], ErrorMessage=[The authorization server request is still pending as the end user has yet to visit and enter the verification code.], CorrId=[EOS-bR1MzM_CtEKBiwdvxHTCcA-ry2MJYjzKkSf4ZkPfksWMw]
+[2025.03.28-18.37.12:137][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.03.28-18.37.13:232][158]LogSlate: Window 'Save Content' being destroyed
+[2025.03.28-18.37.13:240][158]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.28-18.37.13:263][158]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Obsticles/BP_Laser] ([3] browsable assets)...
+[2025.03.28-18.37.13:263][158]OBJ SavePackage: Finished generating thumbnails for package [/Game/Obsticles/BP_Laser]
+[2025.03.28-18.37.13:263][158]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Obsticles/BP_Laser" FILE="../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/Obsticles/BP_Laser.uasset" SILENT=true
+[2025.03.28-18.37.13:264][158]LogSavePackage: Moving output files for package: /Game/Obsticles/BP_Laser
+[2025.03.28-18.37.13:264][158]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/BP_Laser9D92DC67404DE119F2C88EA8F12D5809.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/Obsticles/BP_Laser.uasset'
+[2025.03.28-18.37.13:273][158]LogFileHelpers: InternalPromptForCheckoutAndSave took 33.228 ms (total: 364.284 ms)
+[2025.03.28-18.37.13:274][158]LogAssetRegistry: Warning: C:/Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/Obsticles\BP_Laser.uasset: package was marked as deleted in editor, but has been modified on disk. It will once again be returned from AssetRegistry queries.
+[2025.03.28-18.37.13:295][158]LogContentValidation: Display: Starting to validate 3 assets
+[2025.03.28-18.37.13:295][158]LogContentValidation: Enabled validators:
+[2025.03.28-18.37.13:295][158]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.28-18.37.13:295][158]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.28-18.37.13:295][158]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.28-18.37.13:295][158]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.28-18.37.13:295][158]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.28-18.37.13:295][158]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.28-18.37.13:295][158]AssetCheck: /Game/Obsticles/BP_Laser Validating asset
+[2025.03.28-18.37.13:295][158]AssetCheck: /Game/Obsticles/BP_Laser Validating asset
+[2025.03.28-18.37.13:295][158]AssetCheck: /Game/Obsticles/BP_Laser Validating asset
+[2025.03.28-18.37.17:751][473]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[OAuth], OperationName=[TokenGrantv2], Url=[<Redacted>], HttpStatus=[400], ErrorCode=[errors.com.epicgames.account.oauth.authorization_pending], NumericErrorCode=[1012], ErrorMessage=[The authorization server request is still pending as the end user has yet to visit and enter the verification code.], CorrId=[EOS-bR1MzM_CtEKBiwdvxHTCcA-NlLXOTiJ-kuKYyj85PyzVw]
+[2025.03.28-18.37.28:087][504]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[OAuth], OperationName=[TokenGrantv2], Url=[<Redacted>], HttpStatus=[400], ErrorCode=[errors.com.epicgames.account.oauth.authorization_pending], NumericErrorCode=[1012], ErrorMessage=[The authorization server request is still pending as the end user has yet to visit and enter the verification code.], CorrId=[EOS-bR1MzM_CtEKBiwdvxHTCcA-mtZLrLIvoEaOnR0J-swnsA]
+[2025.03.28-18.37.38:421][535]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[OAuth], OperationName=[TokenGrantv2], Url=[<Redacted>], HttpStatus=[400], ErrorCode=[errors.com.epicgames.account.oauth.authorization_pending], NumericErrorCode=[1012], ErrorMessage=[The authorization server request is still pending as the end user has yet to visit and enter the verification code.], CorrId=[EOS-bR1MzM_CtEKBiwdvxHTCcA-mZRYwCK0A0S7TajzJNtcPw]
