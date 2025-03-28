@@ -2559,3 +2559,716 @@ FPackageName: Skipped package /Game/StarterContent/Maps/Advanced_Lighting_BuiltD
 [2025.03.28-18.37.17:751][473]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[OAuth], OperationName=[TokenGrantv2], Url=[<Redacted>], HttpStatus=[400], ErrorCode=[errors.com.epicgames.account.oauth.authorization_pending], NumericErrorCode=[1012], ErrorMessage=[The authorization server request is still pending as the end user has yet to visit and enter the verification code.], CorrId=[EOS-bR1MzM_CtEKBiwdvxHTCcA-NlLXOTiJ-kuKYyj85PyzVw]
 [2025.03.28-18.37.28:087][504]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[OAuth], OperationName=[TokenGrantv2], Url=[<Redacted>], HttpStatus=[400], ErrorCode=[errors.com.epicgames.account.oauth.authorization_pending], NumericErrorCode=[1012], ErrorMessage=[The authorization server request is still pending as the end user has yet to visit and enter the verification code.], CorrId=[EOS-bR1MzM_CtEKBiwdvxHTCcA-mtZLrLIvoEaOnR0J-swnsA]
 [2025.03.28-18.37.38:421][535]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[OAuth], OperationName=[TokenGrantv2], Url=[<Redacted>], HttpStatus=[400], ErrorCode=[errors.com.epicgames.account.oauth.authorization_pending], NumericErrorCode=[1012], ErrorMessage=[The authorization server request is still pending as the end user has yet to visit and enter the verification code.], CorrId=[EOS-bR1MzM_CtEKBiwdvxHTCcA-mZRYwCK0A0S7TajzJNtcPw]
+[2025.03.28-18.37.48:756][566]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[OAuth], OperationName=[TokenGrantv2], Url=[<Redacted>], HttpStatus=[400], ErrorCode=[errors.com.epicgames.account.oauth.authorization_pending], NumericErrorCode=[1012], ErrorMessage=[The authorization server request is still pending as the end user has yet to visit and enter the verification code.], CorrId=[EOS-bR1MzM_CtEKBiwdvxHTCcA-lgEjoV7tN02JojyYb6s7JA]
+[2025.03.28-18.37.53:422][580]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 976.988525
+[2025.03.28-18.37.54:422][583]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.28-18.37.54:422][583]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 977.655579, Update Interval: 311.839966
+[2025.03.28-18.37.59:092][597]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[OAuth], OperationName=[TokenGrantv2], Url=[<Redacted>], HttpStatus=[400], ErrorCode=[errors.com.epicgames.account.oauth.authorization_pending], NumericErrorCode=[1012], ErrorMessage=[The authorization server request is still pending as the end user has yet to visit and enter the verification code.], CorrId=[EOS-bR1MzM_CtEKBiwdvxHTCcA-lPd_QmNn7UCaV65zzO_MLg]
+[2025.03.28-18.38.09:759][629]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[OAuth], OperationName=[TokenGrantv2], Url=[<Redacted>], HttpStatus=[400], ErrorCode=[errors.com.epicgames.account.oauth.authorization_pending], NumericErrorCode=[1012], ErrorMessage=[The authorization server request is still pending as the end user has yet to visit and enter the verification code.], CorrId=[EOS-bR1MzM_CtEKBiwdvxHTCcA-Y57PhbF6jkOBevet03N-Mg]
+[2025.03.28-18.38.19:807][242]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[OAuth], OperationName=[TokenGrantv2], Url=[<Redacted>], HttpStatus=[400], ErrorCode=[errors.com.epicgames.account.oauth.authorization_pending], NumericErrorCode=[1012], ErrorMessage=[The authorization server request is still pending as the end user has yet to visit and enter the verification code.], CorrId=[EOS-bR1MzM_CtEKBiwdvxHTCcA-7Pq5BbuipkSGLSso9lZYqw]
+[2025.03.28-18.38.29:862][134]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[OAuth], OperationName=[TokenGrantv2], Url=[<Redacted>], HttpStatus=[400], ErrorCode=[errors.com.epicgames.account.oauth.authorization_pending], NumericErrorCode=[1012], ErrorMessage=[The authorization server request is still pending as the end user has yet to visit and enter the verification code.], CorrId=[EOS-bR1MzM_CtEKBiwdvxHTCcA-8dH58xHFM0-dDzvXXa3jbg]
+[2025.03.28-18.38.39:910][958]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[OAuth], OperationName=[TokenGrantv2], Url=[<Redacted>], HttpStatus=[400], ErrorCode=[errors.com.epicgames.account.oauth.authorization_pending], NumericErrorCode=[1012], ErrorMessage=[The authorization server request is still pending as the end user has yet to visit and enter the verification code.], CorrId=[EOS-bR1MzM_CtEKBiwdvxHTCcA-VWbKIEKSCkW-t5knZCVnSw]
+[2025.03.28-18.38.49:960][825]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[OAuth], OperationName=[TokenGrantv2], Url=[<Redacted>], HttpStatus=[400], ErrorCode=[errors.com.epicgames.account.oauth.authorization_pending], NumericErrorCode=[1012], ErrorMessage=[The authorization server request is still pending as the end user has yet to visit and enter the verification code.], CorrId=[EOS-bR1MzM_CtEKBiwdvxHTCcA-3Gx-aYc6sEOS0F9OyfIcYw]
+[2025.03.28-18.38.55:941][339]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.03.28-18.39.00:010][695]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[OAuth], OperationName=[TokenGrantv2], Url=[<Redacted>], HttpStatus=[400], ErrorCode=[errors.com.epicgames.account.oauth.authorization_pending], NumericErrorCode=[1012], ErrorMessage=[The authorization server request is still pending as the end user has yet to visit and enter the verification code.], CorrId=[EOS-bR1MzM_CtEKBiwdvxHTCcA-Oz9h39KwHEaQlh_nOwf39Q]
+[2025.03.28-18.39.10:074][565]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[OAuth], OperationName=[TokenGrantv2], Url=[<Redacted>], HttpStatus=[400], ErrorCode=[errors.com.epicgames.account.oauth.authorization_pending], NumericErrorCode=[1012], ErrorMessage=[The authorization server request is still pending as the end user has yet to visit and enter the verification code.], CorrId=[EOS-bR1MzM_CtEKBiwdvxHTCcA-mO1UwfT1s0ew_lRDtKHiUw]
+[2025.03.28-18.39.12:793][798]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.03.28-18.39.19:322][284]LogFab: Display: Logging in using account portal
+[2025.03.28-18.39.19:323][284]LogEOSSDK: LogEOSAuth: LaunchAccountPortalWithPlatformBrowser: Launching with platform browser: <Redacted>
+[2025.03.28-18.39.19:325][284]LogEOSSDK: LogEOSAuth: LaunchAccountPortalWithPlatformBrowser: Successfully launched with platform browser
+[2025.03.28-18.39.19:335][285]LogFab: Error: Login failed - error code: EOS_Auth_PinGrantPending
+[2025.03.28-18.39.20:713][293]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[OAuth], OperationName=[TokenGrantv2], Url=[<Redacted>], HttpStatus=[400], ErrorCode=[errors.com.epicgames.account.oauth.authorization_pending], NumericErrorCode=[1012], ErrorMessage=[The authorization server request is still pending as the end user has yet to visit and enter the verification code.], CorrId=[EOS-bR1MzM_CtEKBiwdvxHTCcA-UL4YzZb9rkyhsxc2skLIVQ]
+[2025.03.28-18.39.31:049][324]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[OAuth], OperationName=[TokenGrantv2], Url=[<Redacted>], HttpStatus=[400], ErrorCode=[errors.com.epicgames.account.oauth.authorization_pending], NumericErrorCode=[1012], ErrorMessage=[The authorization server request is still pending as the end user has yet to visit and enter the verification code.], CorrId=[EOS-bR1MzM_CtEKBiwdvxHTCcA-j3_DQugOY0KMu6xeTxfC1Q]
+[2025.03.28-18.39.41:384][355]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[OAuth], OperationName=[TokenGrantv2], Url=[<Redacted>], HttpStatus=[400], ErrorCode=[errors.com.epicgames.account.oauth.authorization_pending], NumericErrorCode=[1012], ErrorMessage=[The authorization server request is still pending as the end user has yet to visit and enter the verification code.], CorrId=[EOS-bR1MzM_CtEKBiwdvxHTCcA-6UTDUjz2QUSQSecZY53BXQ]
+[2025.03.28-18.39.51:719][386]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[OAuth], OperationName=[TokenGrantv2], Url=[<Redacted>], HttpStatus=[400], ErrorCode=[errors.com.epicgames.account.oauth.authorization_pending], NumericErrorCode=[1012], ErrorMessage=[The authorization server request is still pending as the end user has yet to visit and enter the verification code.], CorrId=[EOS-bR1MzM_CtEKBiwdvxHTCcA-XWk4uDccWEu8wwVjoi3a2w]
+[2025.03.28-18.40.02:053][417]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[OAuth], OperationName=[TokenGrantv2], Url=[<Redacted>], HttpStatus=[400], ErrorCode=[errors.com.epicgames.account.oauth.authorization_pending], NumericErrorCode=[1012], ErrorMessage=[The authorization server request is still pending as the end user has yet to visit and enter the verification code.], CorrId=[EOS-bR1MzM_CtEKBiwdvxHTCcA-d8lf12wERUWz14bSNEsNGA]
+[2025.03.28-18.40.12:388][448]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[OAuth], OperationName=[TokenGrantv2], Url=[<Redacted>], HttpStatus=[400], ErrorCode=[errors.com.epicgames.account.oauth.authorization_pending], NumericErrorCode=[1012], ErrorMessage=[The authorization server request is still pending as the end user has yet to visit and enter the verification code.], CorrId=[EOS-bR1MzM_CtEKBiwdvxHTCcA-DWHZcZ8tPUCNMX8fiQnP1g]
+[2025.03.28-18.40.22:725][479]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[OAuth], OperationName=[TokenGrantv2], Url=[<Redacted>], HttpStatus=[400], ErrorCode=[errors.com.epicgames.account.oauth.authorization_pending], NumericErrorCode=[1012], ErrorMessage=[The authorization server request is still pending as the end user has yet to visit and enter the verification code.], CorrId=[EOS-bR1MzM_CtEKBiwdvxHTCcA-BhO14VeTt0WcA2Y39jqX2w]
+[2025.03.28-18.40.33:059][510]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[OAuth], OperationName=[TokenGrantv2], Url=[<Redacted>], HttpStatus=[400], ErrorCode=[errors.com.epicgames.account.oauth.authorization_pending], NumericErrorCode=[1012], ErrorMessage=[The authorization server request is still pending as the end user has yet to visit and enter the verification code.], CorrId=[EOS-bR1MzM_CtEKBiwdvxHTCcA-_XX96SJy6kuFAAG_m679nA]
+[2025.03.28-18.40.43:398][541]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[OAuth], OperationName=[TokenGrantv2], Url=[<Redacted>], HttpStatus=[400], ErrorCode=[errors.com.epicgames.account.oauth.authorization_pending], NumericErrorCode=[1012], ErrorMessage=[The authorization server request is still pending as the end user has yet to visit and enter the verification code.], CorrId=[EOS-bR1MzM_CtEKBiwdvxHTCcA-eivqeMgmUE-zRLRuLC0y3g]
+[2025.03.28-18.40.53:737][572]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[OAuth], OperationName=[TokenGrantv2], Url=[<Redacted>], HttpStatus=[400], ErrorCode=[errors.com.epicgames.account.oauth.authorization_pending], NumericErrorCode=[1012], ErrorMessage=[The authorization server request is still pending as the end user has yet to visit and enter the verification code.], CorrId=[EOS-bR1MzM_CtEKBiwdvxHTCcA-e6U9ihPPNEKe7vMcZ6bmtg]
+[2025.03.28-18.41.04:410][604]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 35b...4b8 Access[Expires: 2025.03.28-20.41.04 Remaining: 7200.19] Refresh[Expires: 2025-09-24T18:41:04.193Z Remaining: 15552000.19] State: Valid
+[2025.03.28-18.41.04:741][605]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Received FUserAuthToken
+[2025.03.28-18.41.05:742][608]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Login complete: EOS_Success
+[2025.03.28-18.41.05:742][608]LogFab: Display: User logged in
+[2025.03.28-18.41.05:742][608]LogFab: Display: User client id: xyza7891REBVsEqSJRRNXmlS7EQHM459
+[2025.03.28-18.41.06:408][610]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[Friend], OperationName=[GetBlockList], Url=[<Redacted>], HttpStatus=[403], ErrorCode=[errors.com.epicgames.common.insufficient_scopes], NumericErrorCode=[1056], ErrorMessage=[Insufficient access scopes. Expected: [friends_list]], CorrId=[EOS-bR1MzM_CtEKBiwdvxHTCcA-BskvfjKZOUa-CFH4vx5YOg]
+[2025.03.28-18.43.15:913][912]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1299.478516
+[2025.03.28-18.43.16:912][915]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.28-18.43.16:912][915]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1300.144653, Update Interval: 329.704285
+[2025.03.28-18.47.02:461][ 45]LogFab: Display: Asset Type = unreal-engine
+[2025.03.28-18.47.02:461][ 45]LogFab: Display: Is Quixel = 0
+[2025.03.28-18.47.02:461][ 45]LogFab: Display: Base Url https://cloudflare.epicgamescdn.com/Builds/Rocket/Automated/SciFiCrac58207be2950V1/CloudDir,https://epicgames-download1.akamaized.net/Builds/Rocket/Automated/SciFiCrac58207be2950V1/CloudDir,https://download.epicgames.com/Builds/Rocket/Automated/SciFiCrac58207be2950V1/CloudDir,https://fastly-download.epicgames.com/Builds/Rocket/Automated/SciFiCrac58207be2950V1/CloudDir
+[2025.03.28-18.47.57:956][614]LogSlate: Window 'Fab' being destroyed
+[2025.03.28-18.47.57:986][614]LogSlate: Window 'Fab' being destroyed
+[2025.03.28-18.47.59:457][740]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2025.03.28-18.47.59:457][740]LogWebBrowser: Deleting browser for Url=https://www.fab.com/plugins/ue5?listing_types=material&is_free=1.
+[2025.03.28-18.49.16:569][392]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1660.129639
+[2025.03.28-18.49.16:629][397]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.28-18.49.16:629][397]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1660.178345, Update Interval: 331.495117
+[2025.03.28-18.51.28:278][314]LogSlate: Window 'Fab' being destroyed
+[2025.03.28-18.51.28:306][314]LogSlate: Window 'Fab' being destroyed
+[2025.03.28-18.51.29:781][447]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2025.03.28-18.51.29:781][447]LogWebBrowser: Deleting browser for Url=https://www.fab.com/plugins/ue5?listing_types=3d-model&categories=objects-decor&is_free=1.
+[2025.03.28-18.51.37:188][867]LogSlate: Window 'Loading Many Assets' being destroyed
+[2025.03.28-18.51.37:193][867]Message dialog closed, result: Yes, title: Loading Many Assets, text: About to load 63 assets. Are you sure you want to continue?
+[2025.03.28-18.51.37:214][867]LogStreaming: Display: FlushAsyncLoading(786): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.28-18.51.37:221][867]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1105.000 MiB, MemoryLimit = 1057.539062 MiB 
+[2025.03.28-18.51.37:221][867]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1105.000 MiB, MemoryLimit = 1057.601562 MiB 
+[2025.03.28-18.51.37:261][867]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_1_A_Metallic.T_Box_1_A_Metallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.03.28-18.51.37:366][867]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_Showroom
+[2025.03.28-18.51.37:435][867]LogStaticMesh: Display: Building static mesh SM_Box_3 (Required Memory Estimate: 10.32565 MB)...
+[2025.03.28-18.51.37:435][867]LogStaticMesh: Display: Building static mesh SM_Box_2 (Required Memory Estimate: 6.274663 MB)...
+[2025.03.28-18.51.37:435][867]LogStaticMesh: Display: Building static mesh SM_Box_1 (Required Memory Estimate: 30.628398 MB)...
+[2025.03.28-18.51.37:435][867]LogStaticMesh: Display: Building static mesh SM_Box_5 (Required Memory Estimate: 0.984155 MB)...
+[2025.03.28-18.51.37:435][867]LogStaticMesh: Display: Building static mesh SM_Box_4 (Required Memory Estimate: 5.807182 MB)...
+[2025.03.28-18.51.37:436][867]LogStaticMesh: Display: Building static mesh SM_Box_6 (Required Memory Estimate: 4.901875 MB)...
+[2025.03.28-18.51.37:437][867]LogStaticMesh: Display: Building static mesh SM_Box_7 (Required Memory Estimate: 3.776255 MB)...
+[2025.03.28-18.51.37:474][867]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/SciFi_Props/Models/SM_Box_1) ...
+[2025.03.28-18.51.37:615][867]LogStaticMesh: Built static mesh [0.18s] /Game/SciFi_Props/Models/SM_Box_5.SM_Box_5
+[2025.03.28-18.51.37:619][867]LogStaticMesh: Display: Building static mesh SM_Box_8 (Required Memory Estimate: 6.055119 MB)...
+[2025.03.28-18.51.38:102][867]LogStaticMesh: Built static mesh [0.67s] /Game/SciFi_Props/Models/SM_Box_7.SM_Box_7
+[2025.03.28-18.51.38:108][867]LogStaticMesh: Display: Building static mesh SM_Box_9 (Required Memory Estimate: 0.839432 MB)...
+[2025.03.28-18.51.38:234][867]LogStaticMesh: Built static mesh [0.13s] /Game/SciFi_Props/Models/SM_Box_9.SM_Box_9
+[2025.03.28-18.51.38:302][867]LogStaticMesh: Built static mesh [0.87s] /Game/SciFi_Props/Models/SM_Box_4.SM_Box_4
+[2025.03.28-18.51.38:359][867]LogStaticMesh: Built static mesh [0.92s] /Game/SciFi_Props/Models/SM_Box_6.SM_Box_6
+[2025.03.28-18.51.38:386][867]LogStaticMesh: Built static mesh [0.95s] /Game/SciFi_Props/Models/SM_Box_2.SM_Box_2
+[2025.03.28-18.51.38:573][867]LogStaticMesh: Built static mesh [0.95s] /Game/SciFi_Props/Models/SM_Box_8.SM_Box_8
+[2025.03.28-18.51.39:034][867]LogStaticMesh: Built static mesh [1.60s] /Game/SciFi_Props/Models/SM_Box_3.SM_Box_3
+[2025.03.28-18.51.41:075][867]LogStaticMesh: Built static mesh [3.64s] /Game/SciFi_Props/Models/SM_Box_1.SM_Box_1
+[2025.03.28-18.51.41:103][867]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1153.000 MiB, MemoryLimit = 1082.929688 MiB 
+[2025.03.28-18.51.41:103][867]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1153.000 MiB, MemoryLimit = 1082.929688 MiB 
+[2025.03.28-18.51.41:225][867]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_1_B_BaseColor.T_Box_1_B_BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.03.28-18.51.41:235][867]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_1_A_Emissive.T_Box_1_A_Emissive (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.03.28-18.51.41:527][867]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1105.000 MiB, MemoryLimit = 1073.199219 MiB 
+[2025.03.28-18.51.41:527][867]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1105.000 MiB, MemoryLimit = 1073.136719 MiB 
+[2025.03.28-18.51.41:577][867]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_8_Metallic.T_Box_8_Metallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.03.28-18.51.41:736][867]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_1_A_Normal.T_Box_1_A_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.03.28-18.51.41:840][867]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1153.000 MiB, MemoryLimit = 689.890625 MiB 
+[2025.03.28-18.51.41:840][867]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1153.000 MiB, MemoryLimit = 690.636719 MiB 
+[2025.03.28-18.51.41:959][867]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_1_A_Roughness.T_Box_1_A_Roughness (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.03.28-18.51.42:135][867]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_8_Normal.T_Box_8_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.03.28-18.51.42:227][867]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_1_B_Metallic.T_Box_1_B_Metallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.03.28-18.51.42:474][867]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_4_Metallic.T_Box_4_Metallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.03.28-18.51.42:550][867]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_8_Roughness.T_Box_8_Roughness (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.03.28-18.51.42:779][867]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1153.000 MiB, MemoryLimit = 1093.472656 MiB 
+[2025.03.28-18.51.42:779][867]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1153.000 MiB, MemoryLimit = 1093.472656 MiB 
+[2025.03.28-18.51.42:885][867]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_4_Emissive.T_Box_4_Emissive (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.03.28-18.51.43:064][867]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_1_B_Normal.T_Box_1_B_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.03.28-18.51.43:255][867]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1105.000 MiB, MemoryLimit = 1058.660156 MiB 
+[2025.03.28-18.51.43:255][867]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1105.000 MiB, MemoryLimit = 1058.65625 MiB 
+[2025.03.28-18.51.43:286][867]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_1_B_Roughness.T_Box_1_B_Roughness (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.03.28-18.51.43:391][867]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_4_BaseColor.T_Box_4_BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.03.28-18.51.43:583][867]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1153.000 MiB, MemoryLimit = 1100.828125 MiB 
+[2025.03.28-18.51.43:583][867]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1153.000 MiB, MemoryLimit = 1100.828125 MiB 
+[2025.03.28-18.51.43:637][867]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_3_Roughness.T_Box_3_Roughness (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.03.28-18.51.43:812][867]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_1_BaseColor.T_Box_1_BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.03.28-18.51.43:988][867]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1153.000 MiB, MemoryLimit = 1067.000 MiB 
+[2025.03.28-18.51.43:988][867]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1153.000 MiB, MemoryLimit = 1066.867188 MiB 
+[2025.03.28-18.51.44:079][867]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_3_Normal.T_Box_3_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.03.28-18.51.44:219][867]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_6_BaseColor.T_Box_6_BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.03.28-18.51.44:402][867]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_3_Metallic.T_Box_3_Metallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.03.28-18.51.44:509][867]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1153.000 MiB, MemoryLimit = 754.21875 MiB 
+[2025.03.28-18.51.44:509][867]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1153.000 MiB, MemoryLimit = 754.964844 MiB 
+[2025.03.28-18.51.44:647][867]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_6_Emissive.T_Box_6_Emissive (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.03.28-18.51.44:786][867]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_3_Emissive.T_Box_3_Emissive (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.03.28-18.51.44:922][867]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1105.000 MiB, MemoryLimit = 960.804688 MiB 
+[2025.03.28-18.51.44:922][867]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1105.000 MiB, MemoryLimit = 960.804688 MiB 
+[2025.03.28-18.51.45:016][867]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_6_Metallic.T_Box_6_Metallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.03.28-18.51.45:217][867]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_3_BaseColor.T_Box_3_BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.03.28-18.51.45:437][867]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_2_Roughness.T_Box_2_Roughness (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.03.28-18.51.45:644][867]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1153.000 MiB, MemoryLimit = 1083.226562 MiB 
+[2025.03.28-18.51.45:644][867]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1153.000 MiB, MemoryLimit = 1083.226562 MiB 
+[2025.03.28-18.51.45:760][867]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_2_Normal.T_Box_2_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.03.28-18.51.45:925][867]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_6_Normal.T_Box_6_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.03.28-18.51.46:032][867]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_2_Metallic.T_Box_2_Metallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.03.28-18.51.46:214][867]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1105.000 MiB, MemoryLimit = 1032.914062 MiB 
+[2025.03.28-18.51.46:214][867]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1105.000 MiB, MemoryLimit = 1033.339844 MiB 
+[2025.03.28-18.51.46:282][867]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_6_Roughness.T_Box_6_Roughness (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.03.28-18.51.46:435][867]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_2_Emissive.T_Box_2_Emissive (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.03.28-18.51.46:557][867]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1153.000 MiB, MemoryLimit = 892.738281 MiB 
+[2025.03.28-18.51.46:557][867]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1153.000 MiB, MemoryLimit = 892.9375 MiB 
+[2025.03.28-18.51.46:744][867]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_5_BaseColor.T_Box_5_BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.03.28-18.51.46:827][867]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_2_BaseColor.T_Box_2_BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.03.28-18.51.47:036][867]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1153.000 MiB, MemoryLimit = 1094.777344 MiB 
+[2025.03.28-18.51.47:036][867]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1153.000 MiB, MemoryLimit = 1094.777344 MiB 
+[2025.03.28-18.51.47:151][867]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_5_Emissive.T_Box_5_Emissive (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.03.28-18.51.47:296][867]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_4_Normal.T_Box_4_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.03.28-18.51.47:405][867]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1105.000 MiB, MemoryLimit = 800.046875 MiB 
+[2025.03.28-18.51.47:405][867]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1105.000 MiB, MemoryLimit = 800.351562 MiB 
+[2025.03.28-18.51.47:463][867]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_5_Metallic.T_Box_5_Metallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.03.28-18.51.47:603][867]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_4_Roughness.T_Box_4_Roughness (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.03.28-18.51.47:744][867]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1153.000 MiB, MemoryLimit = 947.746094 MiB 
+[2025.03.28-18.51.47:744][867]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1153.000 MiB, MemoryLimit = 947.679688 MiB 
+[2025.03.28-18.51.47:952][867]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_5_Normal.T_Box_5_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.03.28-18.51.48:115][867]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1105.000 MiB, MemoryLimit = 1101.121094 MiB 
+[2025.03.28-18.51.48:115][867]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1105.000 MiB, MemoryLimit = 1101.121094 MiB 
+[2025.03.28-18.51.48:163][867]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_5_Roughness.T_Box_5_Roughness (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.03.28-18.51.48:324][867]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1153.000 MiB, MemoryLimit = 1103.250 MiB 
+[2025.03.28-18.51.48:324][867]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1153.000 MiB, MemoryLimit = 1103.250 MiB 
+[2025.03.28-18.51.48:437][867]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_8_Emissive.T_Box_8_Emissive (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.03.28-18.51.48:541][867]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_7_BaseColor.T_Box_7_BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.03.28-18.51.48:743][867]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1153.000 MiB, MemoryLimit = 1080.789062 MiB 
+[2025.03.28-18.51.48:744][867]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1153.000 MiB, MemoryLimit = 1080.726562 MiB 
+[2025.03.28-18.51.48:849][867]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_8_BaseColor.T_Box_8_BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.03.28-18.51.48:990][867]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_7_Emissive.T_Box_7_Emissive (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.03.28-18.51.49:140][867]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_7_Roughness.T_Box_7_Roughness (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.03.28-18.51.49:266][867]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1105.000 MiB, MemoryLimit = 921.523438 MiB 
+[2025.03.28-18.51.49:266][867]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1105.000 MiB, MemoryLimit = 921.335938 MiB 
+[2025.03.28-18.51.49:313][867]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_7_Metallic.T_Box_7_Metallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.03.28-18.51.49:523][867]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_9__Metallic.T_Box_9__Metallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.03.28-18.51.49:668][867]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_7_Normal.T_Box_7_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.03.28-18.51.49:776][867]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1153.000 MiB, MemoryLimit = 957.832031 MiB 
+[2025.03.28-18.51.49:776][867]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1153.000 MiB, MemoryLimit = 957.636719 MiB 
+[2025.03.28-18.51.49:925][867]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_9_BaseColor.T_Box_9_BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.03.28-18.51.50:044][867]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_9_Emissive.T_Box_9_Emissive (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.03.28-18.51.50:200][867]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1153.000 MiB, MemoryLimit = 1087.390625 MiB 
+[2025.03.28-18.51.50:200][867]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1153.000 MiB, MemoryLimit = 1087.390625 MiB 
+[2025.03.28-18.51.50:269][867]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_9_Roughness.T_Box_9_Roughness (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.03.28-18.51.50:460][867]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_9_Normal.T_Box_9_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.03.28-18.51.50:637][867]LogTexture: Display: Building textures: /Game/SciFi_Props/Maps/Lvl_Showroom_BuiltData.Lvl_Showroom_BuiltData:LQ_Lightmap_0_1 (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 31.166582 MB), EncodeSpeed: Fast
+[2025.03.28-18.51.50:638][867]LogTexture: Display: Building textures: /Game/SciFi_Props/Maps/Lvl_Showroom_BuiltData.Lvl_Showroom_BuiltData:HQ_Lightmap0_1 (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 46.416656 MB), EncodeSpeed: Fast
+[2025.03.28-18.51.50:646][867]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.28-18.51.50:661][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SciFi_Props/Models/SM_Box_1] ([1] browsable assets)...
+[2025.03.28-18.51.50:661][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/SciFi_Props/Models/SM_Box_1]
+[2025.03.28-18.51.50:711][867]LogSavePackage: Moving output files for package: /Game/SciFi_Props/Models/SM_Box_1
+[2025.03.28-18.51.50:712][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/SM_Box_1490267DA44C218F63D5F82A6E402DEB7.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/SciFi_Props/Models/SM_Box_1.uasset'
+[2025.03.28-18.51.50:714][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SciFi_Props/Models/SM_Box_6] ([1] browsable assets)...
+[2025.03.28-18.51.50:714][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/SciFi_Props/Models/SM_Box_6]
+[2025.03.28-18.51.50:725][867]LogSavePackage: Moving output files for package: /Game/SciFi_Props/Models/SM_Box_6
+[2025.03.28-18.51.50:726][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/SM_Box_603A0B5DC4ECFC65BBA57F6B523EFC323.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/SciFi_Props/Models/SM_Box_6.uasset'
+[2025.03.28-18.51.50:727][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SciFi_Props/Models/SM_Box_5] ([1] browsable assets)...
+[2025.03.28-18.51.50:727][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/SciFi_Props/Models/SM_Box_5]
+[2025.03.28-18.51.50:733][867]LogSavePackage: Moving output files for package: /Game/SciFi_Props/Models/SM_Box_5
+[2025.03.28-18.51.50:733][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/SM_Box_5DDBEE88F48412477EF4B9FAA1C32DA02.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/SciFi_Props/Models/SM_Box_5.uasset'
+[2025.03.28-18.51.50:735][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SciFi_Props/Models/SM_Box_3] ([1] browsable assets)...
+[2025.03.28-18.51.50:735][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/SciFi_Props/Models/SM_Box_3]
+[2025.03.28-18.51.50:752][867]LogSavePackage: Moving output files for package: /Game/SciFi_Props/Models/SM_Box_3
+[2025.03.28-18.51.50:753][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/SM_Box_30E2320314A96F154CB556D84A65F1238.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/SciFi_Props/Models/SM_Box_3.uasset'
+[2025.03.28-18.51.50:754][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SciFi_Props/Models/SM_Box_2] ([1] browsable assets)...
+[2025.03.28-18.51.50:754][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/SciFi_Props/Models/SM_Box_2]
+[2025.03.28-18.51.50:767][867]LogSavePackage: Moving output files for package: /Game/SciFi_Props/Models/SM_Box_2
+[2025.03.28-18.51.50:768][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/SM_Box_2C6F90C754CA4B532398BDC958B58BEB1.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/SciFi_Props/Models/SM_Box_2.uasset'
+[2025.03.28-18.51.50:769][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SciFi_Props/Models/SM_Box_7] ([1] browsable assets)...
+[2025.03.28-18.51.50:769][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/SciFi_Props/Models/SM_Box_7]
+[2025.03.28-18.51.50:778][867]LogSavePackage: Moving output files for package: /Game/SciFi_Props/Models/SM_Box_7
+[2025.03.28-18.51.50:779][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/SM_Box_7982F0BE04E1D84B569564288D06B8E6C.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/SciFi_Props/Models/SM_Box_7.uasset'
+[2025.03.28-18.51.50:780][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SciFi_Props/Models/SM_Box_8] ([1] browsable assets)...
+[2025.03.28-18.51.50:780][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/SciFi_Props/Models/SM_Box_8]
+[2025.03.28-18.51.50:793][867]LogSavePackage: Moving output files for package: /Game/SciFi_Props/Models/SM_Box_8
+[2025.03.28-18.51.50:794][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/SM_Box_811A4FFC2440B8CA1D4F512B83FD5578F.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/SciFi_Props/Models/SM_Box_8.uasset'
+[2025.03.28-18.51.50:795][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SciFi_Props/Models/SM_Box_9] ([1] browsable assets)...
+[2025.03.28-18.51.50:795][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/SciFi_Props/Models/SM_Box_9]
+[2025.03.28-18.51.50:800][867]LogSavePackage: Moving output files for package: /Game/SciFi_Props/Models/SM_Box_9
+[2025.03.28-18.51.50:801][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/SM_Box_955E7469149E95246ADFCC983193EF37D.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/SciFi_Props/Models/SM_Box_9.uasset'
+[2025.03.28-18.51.50:802][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/M_Floor] ([1] browsable assets)...
+[2025.03.28-18.51.50:802][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/M_Floor]
+[2025.03.28-18.51.50:803][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_Floor
+[2025.03.28-18.51.50:803][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/M_FloorDD14C99349BFA0F89EE29DBA0C736E1A.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/Materials/M_Floor.uasset'
+[2025.03.28-18.51.50:805][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/M_Master] ([1] browsable assets)...
+[2025.03.28-18.51.50:805][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/M_Master]
+[2025.03.28-18.51.50:807][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_Master
+[2025.03.28-18.51.50:807][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/M_Master0E2BB3A64AC332BC0545D3B265BD629D.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/Materials/M_Master.uasset'
+[2025.03.28-18.51.50:809][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/M_Master_2] ([1] browsable assets)...
+[2025.03.28-18.51.50:809][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/M_Master_2]
+[2025.03.28-18.51.50:811][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_Master_2
+[2025.03.28-18.51.50:811][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/M_Master_25ABCBC274C2E2951015269836B526DD8.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/Materials/M_Master_2.uasset'
+[2025.03.28-18.51.50:813][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/MI_Box_1_A] ([1] browsable assets)...
+[2025.03.28-18.51.50:813][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/MI_Box_1_A]
+[2025.03.28-18.51.50:815][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/MI_Box_1_A
+[2025.03.28-18.51.50:815][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/MI_Box_1_AFF75142B41C4829B905131B5F1F4B0AC.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/Materials/MI_Box_1_A.uasset'
+[2025.03.28-18.51.50:816][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/MI_Box_6] ([1] browsable assets)...
+[2025.03.28-18.51.50:816][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/MI_Box_6]
+[2025.03.28-18.51.50:818][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/MI_Box_6
+[2025.03.28-18.51.50:818][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/MI_Box_6F0E087A245CEC1BF5D25528EB750AE49.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/Materials/MI_Box_6.uasset'
+[2025.03.28-18.51.50:819][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/MI_Box_5] ([1] browsable assets)...
+[2025.03.28-18.51.50:819][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/MI_Box_5]
+[2025.03.28-18.51.50:821][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/MI_Box_5
+[2025.03.28-18.51.50:821][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/MI_Box_54AE9D0FF4607C16EAA81D9B2F41FE780.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/Materials/MI_Box_5.uasset'
+[2025.03.28-18.51.50:822][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/MI_Box_4] ([1] browsable assets)...
+[2025.03.28-18.51.50:822][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/MI_Box_4]
+[2025.03.28-18.51.50:824][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/MI_Box_4
+[2025.03.28-18.51.50:824][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/MI_Box_43AECF76343C7A7C4458788B8DBC50212.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/Materials/MI_Box_4.uasset'
+[2025.03.28-18.51.50:825][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SciFi_Props/Materials/MI_Box_4] ([1] browsable assets)...
+[2025.03.28-18.51.50:825][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/SciFi_Props/Materials/MI_Box_4]
+[2025.03.28-18.51.50:826][867]LogSavePackage: Moving output files for package: /Game/SciFi_Props/Materials/MI_Box_4
+[2025.03.28-18.51.50:827][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/MI_Box_4CDA5B2F945A880644E93138554CF8992.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/SciFi_Props/Materials/MI_Box_4.uasset'
+[2025.03.28-18.51.50:828][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/MI_Box_3] ([1] browsable assets)...
+[2025.03.28-18.51.50:829][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/MI_Box_3]
+[2025.03.28-18.51.50:831][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/MI_Box_3
+[2025.03.28-18.51.50:831][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/MI_Box_344559F354EA2C498613919BB58BD602F.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/Materials/MI_Box_3.uasset'
+[2025.03.28-18.51.50:832][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/MI_Box_2] ([1] browsable assets)...
+[2025.03.28-18.51.50:832][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/MI_Box_2]
+[2025.03.28-18.51.50:834][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/MI_Box_2
+[2025.03.28-18.51.50:834][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/MI_Box_28A3968124C1AF1BF46844CB4F87A858C.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/Materials/MI_Box_2.uasset'
+[2025.03.28-18.51.50:835][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/MI_Box_1_B] ([1] browsable assets)...
+[2025.03.28-18.51.50:835][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/MI_Box_1_B]
+[2025.03.28-18.51.50:837][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/MI_Box_1_B
+[2025.03.28-18.51.50:837][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/MI_Box_1_B370872B84A2D103F326CF99A19037D01.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/Materials/MI_Box_1_B.uasset'
+[2025.03.28-18.51.50:838][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/MI_Box_7] ([1] browsable assets)...
+[2025.03.28-18.51.50:838][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/MI_Box_7]
+[2025.03.28-18.51.50:840][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/MI_Box_7
+[2025.03.28-18.51.50:840][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/MI_Box_77F2E2A66444F07B89C3773B00959DE8D.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/Materials/MI_Box_7.uasset'
+[2025.03.28-18.51.50:841][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/MI_Box_8] ([1] browsable assets)...
+[2025.03.28-18.51.50:841][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/MI_Box_8]
+[2025.03.28-18.51.50:843][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/MI_Box_8
+[2025.03.28-18.51.50:843][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/MI_Box_8709FD8A243DD9A4F9ABA1BA0A7E2B875.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/Materials/MI_Box_8.uasset'
+[2025.03.28-18.51.50:845][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/MI_Box_9] ([1] browsable assets)...
+[2025.03.28-18.51.50:845][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/MI_Box_9]
+[2025.03.28-18.51.50:847][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/MI_Box_9
+[2025.03.28-18.51.50:847][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/MI_Box_9D7617D354D0AE84C2365DE9B0FCF438C.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/Materials/MI_Box_9.uasset'
+[2025.03.28-18.51.50:849][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/MI_Floor] ([1] browsable assets)...
+[2025.03.28-18.51.50:849][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/MI_Floor]
+[2025.03.28-18.51.50:850][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/MI_Floor
+[2025.03.28-18.51.50:850][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/MI_FloorAC3783CA421D3546F319DCBE194A6B63.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/Materials/MI_Floor.uasset'
+[2025.03.28-18.51.50:852][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SciFi_Props/Materials/MI_Floor] ([1] browsable assets)...
+[2025.03.28-18.51.50:852][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/SciFi_Props/Materials/MI_Floor]
+[2025.03.28-18.51.50:852][867]LogSavePackage: Moving output files for package: /Game/SciFi_Props/Materials/MI_Floor
+[2025.03.28-18.51.50:853][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/MI_Floor36ECFC5046CF0B371BCD6EA1F64A7A8D.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/SciFi_Props/Materials/MI_Floor.uasset'
+[2025.03.28-18.51.50:854][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/Textures/T_Box_1_A_Emissive] ([1] browsable assets)...
+[2025.03.28-18.51.50:854][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/Textures/T_Box_1_A_Emissive]
+[2025.03.28-18.51.51:030][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/Textures/T_Box_1_A_Emissive
+[2025.03.28-18.51.51:030][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/T_Box_1_A_Emissive5DF5749F41D1A6A7E951CDAAB67C2F65.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/Materials/Textures/T_Box_1_A_Emissive.uasset'
+[2025.03.28-18.51.51:031][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/Textures/T_Box_1_A_Metallic] ([1] browsable assets)...
+[2025.03.28-18.51.51:031][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/Textures/T_Box_1_A_Metallic]
+[2025.03.28-18.51.51:084][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/Textures/T_Box_1_A_Metallic
+[2025.03.28-18.51.51:084][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/T_Box_1_A_Metallic2B108F044175081BC288E4AFB56B9A80.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/Materials/Textures/T_Box_1_A_Metallic.uasset'
+[2025.03.28-18.51.51:085][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/Textures/T_Box_1_A_Normal] ([1] browsable assets)...
+[2025.03.28-18.51.51:085][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/Textures/T_Box_1_A_Normal]
+[2025.03.28-18.51.51:322][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/Textures/T_Box_1_A_Normal
+[2025.03.28-18.51.51:323][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/T_Box_1_A_Normal9EB5AEA245D921D60EB5DEBF668DBAC8.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/Materials/Textures/T_Box_1_A_Normal.uasset'
+[2025.03.28-18.51.51:325][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/Textures/T_Box_1_A_Roughness] ([1] browsable assets)...
+[2025.03.28-18.51.51:326][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/Textures/T_Box_1_A_Roughness]
+[2025.03.28-18.51.51:384][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/Textures/T_Box_1_A_Roughness
+[2025.03.28-18.51.51:384][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/T_Box_1_A_RoughnessFFFEE9F04610FE8D5201C5881D9D532D.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/Materials/Textures/T_Box_1_A_Roughness.uasset'
+[2025.03.28-18.51.51:385][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/Textures/T_Box_1_B_BaseColor] ([1] browsable assets)...
+[2025.03.28-18.51.51:385][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/Textures/T_Box_1_B_BaseColor]
+[2025.03.28-18.51.51:591][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/Textures/T_Box_1_B_BaseColor
+[2025.03.28-18.51.51:591][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/T_Box_1_B_BaseColorADB3D4A3487C880A7E535B99E5368E25.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/Materials/Textures/T_Box_1_B_BaseColor.uasset'
+[2025.03.28-18.51.51:593][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/Textures/T_Box_1_B_Metallic] ([1] browsable assets)...
+[2025.03.28-18.51.51:593][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/Textures/T_Box_1_B_Metallic]
+[2025.03.28-18.51.51:639][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/Textures/T_Box_1_B_Metallic
+[2025.03.28-18.51.51:639][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/T_Box_1_B_Metallic18BFFC934D5DA60494CFF09B4EF4A09A.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/Materials/Textures/T_Box_1_B_Metallic.uasset'
+[2025.03.28-18.51.51:640][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/Textures/T_Box_4_Metallic] ([1] browsable assets)...
+[2025.03.28-18.51.51:640][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/Textures/T_Box_4_Metallic]
+[2025.03.28-18.51.51:695][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/Textures/T_Box_4_Metallic
+[2025.03.28-18.51.51:695][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/T_Box_4_MetallicE27DB9314E068D689E448B956EBB80A8.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/Materials/Textures/T_Box_4_Metallic.uasset'
+[2025.03.28-18.51.51:696][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/Textures/T_Box_4_Emissive] ([1] browsable assets)...
+[2025.03.28-18.51.51:696][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/Textures/T_Box_4_Emissive]
+[2025.03.28-18.51.51:907][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/Textures/T_Box_4_Emissive
+[2025.03.28-18.51.51:907][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/T_Box_4_EmissiveB9221AB743B6B8A1D63634B85F0F3145.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/Materials/Textures/T_Box_4_Emissive.uasset'
+[2025.03.28-18.51.51:908][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/Textures/T_Box_4_BaseColor] ([1] browsable assets)...
+[2025.03.28-18.51.51:908][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/Textures/T_Box_4_BaseColor]
+[2025.03.28-18.51.52:143][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/Textures/T_Box_4_BaseColor
+[2025.03.28-18.51.52:143][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/T_Box_4_BaseColorF31C440C4BB5E9874E3370B148154524.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/Materials/Textures/T_Box_4_BaseColor.uasset'
+[2025.03.28-18.51.52:144][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/Textures/T_Box_3_Roughness] ([1] browsable assets)...
+[2025.03.28-18.51.52:144][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/Textures/T_Box_3_Roughness]
+[2025.03.28-18.51.52:210][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/Textures/T_Box_3_Roughness
+[2025.03.28-18.51.52:210][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/T_Box_3_Roughness71A1BB40480FCA64980BE8BDC142424E.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/Materials/Textures/T_Box_3_Roughness.uasset'
+[2025.03.28-18.51.52:212][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/Textures/T_Box_3_Normal] ([1] browsable assets)...
+[2025.03.28-18.51.52:212][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/Textures/T_Box_3_Normal]
+[2025.03.28-18.51.52:501][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/Textures/T_Box_3_Normal
+[2025.03.28-18.51.52:501][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/T_Box_3_Normal27181ADB4CE065DA9A16E8A17BAB3E41.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/Materials/Textures/T_Box_3_Normal.uasset'
+[2025.03.28-18.51.52:502][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/Textures/T_Box_3_Metallic] ([1] browsable assets)...
+[2025.03.28-18.51.52:502][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/Textures/T_Box_3_Metallic]
+[2025.03.28-18.51.52:568][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/Textures/T_Box_3_Metallic
+[2025.03.28-18.51.52:568][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/T_Box_3_Metallic239A3478486099402055AEB9E4B41631.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/Materials/Textures/T_Box_3_Metallic.uasset'
+[2025.03.28-18.51.52:569][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/Textures/T_Box_3_Emissive] ([1] browsable assets)...
+[2025.03.28-18.51.52:569][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/Textures/T_Box_3_Emissive]
+[2025.03.28-18.51.52:743][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/Textures/T_Box_3_Emissive
+[2025.03.28-18.51.52:743][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/T_Box_3_Emissive1ED3604D496CE2F8BC75479C7E53E9D4.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/Materials/Textures/T_Box_3_Emissive.uasset'
+[2025.03.28-18.51.52:744][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/Textures/T_Box_3_BaseColor] ([1] browsable assets)...
+[2025.03.28-18.51.52:744][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/Textures/T_Box_3_BaseColor]
+[2025.03.28-18.51.52:974][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/Textures/T_Box_3_BaseColor
+[2025.03.28-18.51.52:974][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/T_Box_3_BaseColorD683EF5848416CF790335F8CAB4CCD2B.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/Materials/Textures/T_Box_3_BaseColor.uasset'
+[2025.03.28-18.51.52:975][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/Textures/T_Box_2_Roughness] ([1] browsable assets)...
+[2025.03.28-18.51.52:975][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/Textures/T_Box_2_Roughness]
+[2025.03.28-18.51.53:027][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/Textures/T_Box_2_Roughness
+[2025.03.28-18.51.53:027][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/T_Box_2_Roughness5C9D1CB3426EF97E6A22BF999B4AE908.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/Materials/Textures/T_Box_2_Roughness.uasset'
+[2025.03.28-18.51.53:029][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/Textures/T_Box_2_Normal] ([1] browsable assets)...
+[2025.03.28-18.51.53:029][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/Textures/T_Box_2_Normal]
+[2025.03.28-18.51.53:249][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/Textures/T_Box_2_Normal
+[2025.03.28-18.51.53:249][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/T_Box_2_Normal663D35084F4952A18244359F5078360A.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/Materials/Textures/T_Box_2_Normal.uasset'
+[2025.03.28-18.51.53:250][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/Textures/T_Box_2_Metallic] ([1] browsable assets)...
+[2025.03.28-18.51.53:250][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/Textures/T_Box_2_Metallic]
+[2025.03.28-18.51.53:298][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/Textures/T_Box_2_Metallic
+[2025.03.28-18.51.53:298][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/T_Box_2_Metallic389763F247125F5AF63148BBBAEE233F.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/Materials/Textures/T_Box_2_Metallic.uasset'
+[2025.03.28-18.51.53:300][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/Textures/T_Box_2_Emissive] ([1] browsable assets)...
+[2025.03.28-18.51.53:300][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/Textures/T_Box_2_Emissive]
+[2025.03.28-18.51.53:499][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/Textures/T_Box_2_Emissive
+[2025.03.28-18.51.53:499][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/T_Box_2_EmissiveCF866B0345F25A3537582BB4577354EE.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/Materials/Textures/T_Box_2_Emissive.uasset'
+[2025.03.28-18.51.53:501][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/Textures/T_Box_2_BaseColor] ([1] browsable assets)...
+[2025.03.28-18.51.53:501][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/Textures/T_Box_2_BaseColor]
+[2025.03.28-18.51.53:708][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/Textures/T_Box_2_BaseColor
+[2025.03.28-18.51.53:708][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/T_Box_2_BaseColorEAC3E6304D44ECCB7F746C916E223976.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/Materials/Textures/T_Box_2_BaseColor.uasset'
+[2025.03.28-18.51.53:710][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/Textures/T_Box_1_BaseColor] ([1] browsable assets)...
+[2025.03.28-18.51.53:710][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/Textures/T_Box_1_BaseColor]
+[2025.03.28-18.51.53:919][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/Textures/T_Box_1_BaseColor
+[2025.03.28-18.51.53:919][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/T_Box_1_BaseColorD386341245743901042EA38602C867AC.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/Materials/Textures/T_Box_1_BaseColor.uasset'
+[2025.03.28-18.51.53:921][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/Textures/T_Box_1_B_Roughness] ([1] browsable assets)...
+[2025.03.28-18.51.53:921][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/Textures/T_Box_1_B_Roughness]
+[2025.03.28-18.51.53:965][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/Textures/T_Box_1_B_Roughness
+[2025.03.28-18.51.53:965][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/T_Box_1_B_RoughnessBEB7A592410305D1AABAD5B20B60618C.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/Materials/Textures/T_Box_1_B_Roughness.uasset'
+[2025.03.28-18.51.53:966][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/Textures/T_Box_1_B_Normal] ([1] browsable assets)...
+[2025.03.28-18.51.53:966][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/Textures/T_Box_1_B_Normal]
+[2025.03.28-18.51.54:252][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/Textures/T_Box_1_B_Normal
+[2025.03.28-18.51.54:253][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/T_Box_1_B_Normal80BADE42485DCC3BCFCE5DA02038AF36.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/Materials/Textures/T_Box_1_B_Normal.uasset'
+[2025.03.28-18.51.54:254][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/Textures/T_Box_4_Normal] ([1] browsable assets)...
+[2025.03.28-18.51.54:254][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/Textures/T_Box_4_Normal]
+[2025.03.28-18.51.54:556][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/Textures/T_Box_4_Normal
+[2025.03.28-18.51.54:556][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/T_Box_4_NormalE50ADB5D4D8BEE82E98827B9D27CA987.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/Materials/Textures/T_Box_4_Normal.uasset'
+[2025.03.28-18.51.54:558][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/Textures/T_Box_4_Roughness] ([1] browsable assets)...
+[2025.03.28-18.51.54:558][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/Textures/T_Box_4_Roughness]
+[2025.03.28-18.51.54:628][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/Textures/T_Box_4_Roughness
+[2025.03.28-18.51.54:628][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/T_Box_4_Roughness6E90ADEE44440A625A88DFA3D2CFC1F8.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/Materials/Textures/T_Box_4_Roughness.uasset'
+[2025.03.28-18.51.54:629][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/Textures/T_Box_5_BaseColor] ([1] browsable assets)...
+[2025.03.28-18.51.54:629][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/Textures/T_Box_5_BaseColor]
+[2025.03.28-18.51.54:922][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/Textures/T_Box_5_BaseColor
+[2025.03.28-18.51.54:922][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/T_Box_5_BaseColorEEEAB9A4468698F9DE7BE8835804258A.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/Materials/Textures/T_Box_5_BaseColor.uasset'
+[2025.03.28-18.51.54:924][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/Textures/T_Box_5_Emissive] ([1] browsable assets)...
+[2025.03.28-18.51.54:924][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/Textures/T_Box_5_Emissive]
+[2025.03.28-18.51.55:099][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/Textures/T_Box_5_Emissive
+[2025.03.28-18.51.55:099][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/T_Box_5_Emissive2C8C9FB64C4C88B1010F92846AF06C58.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/Materials/Textures/T_Box_5_Emissive.uasset'
+[2025.03.28-18.51.55:100][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/Textures/T_Box_5_Metallic] ([1] browsable assets)...
+[2025.03.28-18.51.55:100][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/Textures/T_Box_5_Metallic]
+[2025.03.28-18.51.55:159][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/Textures/T_Box_5_Metallic
+[2025.03.28-18.51.55:159][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/T_Box_5_MetallicECFC04ED4C5E69B6D68E8AB2653D5E66.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/Materials/Textures/T_Box_5_Metallic.uasset'
+[2025.03.28-18.51.55:161][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/Textures/T_Box_5_Normal] ([1] browsable assets)...
+[2025.03.28-18.51.55:161][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/Textures/T_Box_5_Normal]
+[2025.03.28-18.51.55:436][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/Textures/T_Box_5_Normal
+[2025.03.28-18.51.55:436][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/T_Box_5_Normal3BEA3EC84903938392AFF6A6795CFD2D.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/Materials/Textures/T_Box_5_Normal.uasset'
+[2025.03.28-18.51.55:438][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/Textures/T_Box_5_Roughness] ([1] browsable assets)...
+[2025.03.28-18.51.55:438][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/Textures/T_Box_5_Roughness]
+[2025.03.28-18.51.55:503][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/Textures/T_Box_5_Roughness
+[2025.03.28-18.51.55:504][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/T_Box_5_Roughness236647BF4BA9F707CBBEC289CFA29EBE.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/Materials/Textures/T_Box_5_Roughness.uasset'
+[2025.03.28-18.51.55:505][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/Textures/T_Box_6_BaseColor] ([1] browsable assets)...
+[2025.03.28-18.51.55:505][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/Textures/T_Box_6_BaseColor]
+[2025.03.28-18.51.55:744][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/Textures/T_Box_6_BaseColor
+[2025.03.28-18.51.55:744][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/T_Box_6_BaseColorC74B46404E3E21ECC445CDACBF6A58DE.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/Materials/Textures/T_Box_6_BaseColor.uasset'
+[2025.03.28-18.51.55:745][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/Textures/T_Box_6_Emissive] ([1] browsable assets)...
+[2025.03.28-18.51.55:745][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/Textures/T_Box_6_Emissive]
+[2025.03.28-18.51.55:928][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/Textures/T_Box_6_Emissive
+[2025.03.28-18.51.55:929][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/T_Box_6_Emissive5D8935E54A7AF1AAB97944B349271C4C.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/Materials/Textures/T_Box_6_Emissive.uasset'
+[2025.03.28-18.51.55:930][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/Textures/T_Box_6_Metallic] ([1] browsable assets)...
+[2025.03.28-18.51.55:930][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/Textures/T_Box_6_Metallic]
+[2025.03.28-18.51.56:015][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/Textures/T_Box_6_Metallic
+[2025.03.28-18.51.56:015][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/T_Box_6_Metallic0A64E9754CD7E241A037D087E6441325.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/Materials/Textures/T_Box_6_Metallic.uasset'
+[2025.03.28-18.51.56:017][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/Textures/T_Box_8_Metallic] ([1] browsable assets)...
+[2025.03.28-18.51.56:017][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/Textures/T_Box_8_Metallic]
+[2025.03.28-18.51.56:079][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/Textures/T_Box_8_Metallic
+[2025.03.28-18.51.56:079][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/T_Box_8_MetallicA0FBAA2B466F4C1C962F6E924A7D6538.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/Materials/Textures/T_Box_8_Metallic.uasset'
+[2025.03.28-18.51.56:080][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/Textures/T_Box_8_Emissive] ([1] browsable assets)...
+[2025.03.28-18.51.56:080][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/Textures/T_Box_8_Emissive]
+[2025.03.28-18.51.56:292][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/Textures/T_Box_8_Emissive
+[2025.03.28-18.51.56:292][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/T_Box_8_Emissive1844967A42D243D55D76EFABE50AD6B5.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/Materials/Textures/T_Box_8_Emissive.uasset'
+[2025.03.28-18.51.56:293][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/Textures/T_Box_8_BaseColor] ([1] browsable assets)...
+[2025.03.28-18.51.56:293][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/Textures/T_Box_8_BaseColor]
+[2025.03.28-18.51.56:537][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/Textures/T_Box_8_BaseColor
+[2025.03.28-18.51.56:537][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/T_Box_8_BaseColor36784D2B49169FBF2757849A3C6A3C71.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/Materials/Textures/T_Box_8_BaseColor.uasset'
+[2025.03.28-18.51.56:539][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/Textures/T_Box_7_Roughness] ([1] browsable assets)...
+[2025.03.28-18.51.56:539][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/Textures/T_Box_7_Roughness]
+[2025.03.28-18.51.56:593][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/Textures/T_Box_7_Roughness
+[2025.03.28-18.51.56:594][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/T_Box_7_Roughness77D8ECFF4DE68BEE471C01A3AD1AA4EE.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/Materials/Textures/T_Box_7_Roughness.uasset'
+[2025.03.28-18.51.56:595][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/Textures/T_Box_7_Normal] ([1] browsable assets)...
+[2025.03.28-18.51.56:595][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/Textures/T_Box_7_Normal]
+[2025.03.28-18.51.56:922][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/Textures/T_Box_7_Normal
+[2025.03.28-18.51.56:922][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/T_Box_7_NormalECABC74D4B9A456EC2DE9B9CF92EFAE5.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/Materials/Textures/T_Box_7_Normal.uasset'
+[2025.03.28-18.51.56:924][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/Textures/T_Box_7_Metallic] ([1] browsable assets)...
+[2025.03.28-18.51.56:924][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/Textures/T_Box_7_Metallic]
+[2025.03.28-18.51.56:974][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/Textures/T_Box_7_Metallic
+[2025.03.28-18.51.56:974][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/T_Box_7_Metallic925E1759451962F5C2C25F876A9278EC.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/Materials/Textures/T_Box_7_Metallic.uasset'
+[2025.03.28-18.51.56:976][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/Textures/T_Box_7_Emissive] ([1] browsable assets)...
+[2025.03.28-18.51.56:976][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/Textures/T_Box_7_Emissive]
+[2025.03.28-18.51.57:236][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/Textures/T_Box_7_Emissive
+[2025.03.28-18.51.57:236][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/T_Box_7_EmissiveF40CC40842C708373011508A725ABD20.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/Materials/Textures/T_Box_7_Emissive.uasset'
+[2025.03.28-18.51.57:238][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/Textures/T_Box_7_BaseColor] ([1] browsable assets)...
+[2025.03.28-18.51.57:238][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/Textures/T_Box_7_BaseColor]
+[2025.03.28-18.51.57:471][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/Textures/T_Box_7_BaseColor
+[2025.03.28-18.51.57:471][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/T_Box_7_BaseColor58BC082B4139D6D61BB481BECB9E4C4A.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/Materials/Textures/T_Box_7_BaseColor.uasset'
+[2025.03.28-18.51.57:473][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/Textures/T_Box_6_Roughness] ([1] browsable assets)...
+[2025.03.28-18.51.57:473][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/Textures/T_Box_6_Roughness]
+[2025.03.28-18.51.57:557][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/Textures/T_Box_6_Roughness
+[2025.03.28-18.51.57:557][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/T_Box_6_Roughness1919750948D02B2F5FB996B2241D0FC7.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/Materials/Textures/T_Box_6_Roughness.uasset'
+[2025.03.28-18.51.57:558][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/Textures/T_Box_6_Normal] ([1] browsable assets)...
+[2025.03.28-18.51.57:558][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/Textures/T_Box_6_Normal]
+[2025.03.28-18.51.57:947][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/Textures/T_Box_6_Normal
+[2025.03.28-18.51.57:947][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/T_Box_6_Normal71D8C584415E7978B175E9A0E7AA17A0.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/Materials/Textures/T_Box_6_Normal.uasset'
+[2025.03.28-18.51.57:948][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/Textures/T_Box_9_Emissive] ([1] browsable assets)...
+[2025.03.28-18.51.57:948][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/Textures/T_Box_9_Emissive]
+[2025.03.28-18.51.58:176][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/Textures/T_Box_9_Emissive
+[2025.03.28-18.51.58:176][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/T_Box_9_Emissive9B09C8E041BC623F1AFEE2BDE0699E22.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/Materials/Textures/T_Box_9_Emissive.uasset'
+[2025.03.28-18.51.58:177][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/Textures/T_Box_9_BaseColor] ([1] browsable assets)...
+[2025.03.28-18.51.58:177][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/Textures/T_Box_9_BaseColor]
+[2025.03.28-18.51.58:380][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/Textures/T_Box_9_BaseColor
+[2025.03.28-18.51.58:380][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/T_Box_9_BaseColorD4246A9241DCB57A0EEFCA900E5A3FCF.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/Materials/Textures/T_Box_9_BaseColor.uasset'
+[2025.03.28-18.51.58:382][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/Textures/T_Box_9__Metallic] ([1] browsable assets)...
+[2025.03.28-18.51.58:382][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/Textures/T_Box_9__Metallic]
+[2025.03.28-18.51.58:428][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/Textures/T_Box_9__Metallic
+[2025.03.28-18.51.58:428][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/T_Box_9__Metallic95F6FE6E459126E49BF213AF8748B0F8.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/Materials/Textures/T_Box_9__Metallic.uasset'
+[2025.03.28-18.51.58:430][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/Textures/T_Box_8_Roughness] ([1] browsable assets)...
+[2025.03.28-18.51.58:430][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/Textures/T_Box_8_Roughness]
+[2025.03.28-18.51.58:487][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/Textures/T_Box_8_Roughness
+[2025.03.28-18.51.58:487][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/T_Box_8_RoughnessF4B715814B3A54389329679427D5AC1B.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/Materials/Textures/T_Box_8_Roughness.uasset'
+[2025.03.28-18.51.58:489][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/Textures/T_Box_8_Normal] ([1] browsable assets)...
+[2025.03.28-18.51.58:489][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/Textures/T_Box_8_Normal]
+[2025.03.28-18.51.58:762][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/Textures/T_Box_8_Normal
+[2025.03.28-18.51.58:762][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/T_Box_8_NormalBEE80C1B421DA8B73F277197D852E32F.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/Materials/Textures/T_Box_8_Normal.uasset'
+[2025.03.28-18.51.58:764][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/Textures/T_Box_9_Roughness] ([1] browsable assets)...
+[2025.03.28-18.51.58:764][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/Textures/T_Box_9_Roughness]
+[2025.03.28-18.51.58:809][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/Textures/T_Box_9_Roughness
+[2025.03.28-18.51.58:809][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/T_Box_9_Roughness315B67E34721054581DAD0A96D8B07F6.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/Materials/Textures/T_Box_9_Roughness.uasset'
+[2025.03.28-18.51.58:810][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Materials/Textures/T_Box_9_Normal] ([1] browsable assets)...
+[2025.03.28-18.51.58:810][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Materials/Textures/T_Box_9_Normal]
+[2025.03.28-18.51.59:078][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/Textures/T_Box_9_Normal
+[2025.03.28-18.51.59:078][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/T_Box_9_NormalDA721E314D7FC74CD7F48E8A681A09CE.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/Materials/Textures/T_Box_9_Normal.uasset'
+[2025.03.28-18.51.59:081][867]LogFileHelpers: InternalPromptForCheckoutAndSave took 8.43 sec (total: 8.79 sec)
+[2025.03.28-18.51.59:880][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.03.28-18.51.59:895][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.03.28-18.51.59:907][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.03.28-18.52.00:097][867]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.28-18.52.00:149][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.03.28-18.52.00:162][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/SciFi_Props/Maps/Lvl_Showroom
+[2025.03.28-18.52.00:162][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/Lvl_Showroom6D3433D743C0BCDB309771BDFE1D6B33.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/SciFi_Props/Maps/Lvl_Showroom.umap'
+[2025.03.28-18.52.00:172][867]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/LevelPrototyping/SciFi_Props/Maps/Lvl_Showroom_BuiltData
+[2025.03.28-18.52.00:172][867]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.28-18.52.00:173][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/SciFi_Props/Maps/Lvl_Showroom_BuiltData] ([1] browsable assets)...
+[2025.03.28-18.52.00:173][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/SciFi_Props/Maps/Lvl_Showroom_BuiltData]
+[2025.03.28-18.52.00:181][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/SciFi_Props/Maps/Lvl_Showroom_BuiltData
+[2025.03.28-18.52.00:181][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/Lvl_Showroom_BuiltDataD13EA6C34997DA180E35C4B91589E0C1.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/SciFi_Props/Maps/Lvl_Showroom_BuiltData.uasset'
+[2025.03.28-18.52.00:182][867]LogFileHelpers: InternalPromptForCheckoutAndSave took 10.251 ms (total: 8.80 sec)
+[2025.03.28-18.52.00:182][867]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/LevelPrototyping/SciFi_Props/Maps/Lvl_Showroom_BuiltData
+[2025.03.28-18.52.00:190][867]LogFileHelpers: Saving map 'Lvl_Showroom' took 0.092
+[2025.03.28-18.52.00:190][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/SciFi_Props/Maps/Lvl_Showroom_BuiltData] ([1] browsable assets)...
+[2025.03.28-18.52.00:190][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/SciFi_Props/Maps/Lvl_Showroom_BuiltData]
+[2025.03.28-18.52.00:194][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/SciFi_Props/Maps/Lvl_Showroom_BuiltData
+[2025.03.28-18.52.00:195][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/Lvl_Showroom_BuiltData625FD96E4D70D68122E6298CB2F53934.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/SciFi_Props/Maps/Lvl_Showroom_BuiltData.uasset'
+[2025.03.28-18.52.00:196][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/SciFi_Props/Models/SM_Box_9] ([1] browsable assets)...
+[2025.03.28-18.52.00:196][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/SciFi_Props/Models/SM_Box_9]
+[2025.03.28-18.52.00:200][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/SciFi_Props/Models/SM_Box_9
+[2025.03.28-18.52.00:200][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/SM_Box_9DEF2BB38481F9C10924EDC9CB864A56A.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/SciFi_Props/Models/SM_Box_9.uasset'
+[2025.03.28-18.52.00:201][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/SciFi_Props/Models/SM_Box_8] ([1] browsable assets)...
+[2025.03.28-18.52.00:201][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/SciFi_Props/Models/SM_Box_8]
+[2025.03.28-18.52.00:207][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/SciFi_Props/Models/SM_Box_8
+[2025.03.28-18.52.00:207][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/SM_Box_83FBD21D249B711BBF3BA868A23370E2A.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/SciFi_Props/Models/SM_Box_8.uasset'
+[2025.03.28-18.52.00:208][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/SciFi_Props/Models/SM_Box_7] ([1] browsable assets)...
+[2025.03.28-18.52.00:208][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/SciFi_Props/Models/SM_Box_7]
+[2025.03.28-18.52.00:214][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/SciFi_Props/Models/SM_Box_7
+[2025.03.28-18.52.00:214][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/SM_Box_7C47D0A4A4F522650DEA658AF4FCA1AF2.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/SciFi_Props/Models/SM_Box_7.uasset'
+[2025.03.28-18.52.00:215][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/SciFi_Props/Models/SM_Box_6] ([1] browsable assets)...
+[2025.03.28-18.52.00:215][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/SciFi_Props/Models/SM_Box_6]
+[2025.03.28-18.52.00:221][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/SciFi_Props/Models/SM_Box_6
+[2025.03.28-18.52.00:221][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/SM_Box_66E94FD3449BBB64BC338AD95E694018E.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/SciFi_Props/Models/SM_Box_6.uasset'
+[2025.03.28-18.52.00:223][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/SciFi_Props/Models/SM_Box_5] ([1] browsable assets)...
+[2025.03.28-18.52.00:223][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/SciFi_Props/Models/SM_Box_5]
+[2025.03.28-18.52.00:227][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/SciFi_Props/Models/SM_Box_5
+[2025.03.28-18.52.00:227][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/SM_Box_5E1DCCFA2408D0DAF8A00498C4BFA787A.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/SciFi_Props/Models/SM_Box_5.uasset'
+[2025.03.28-18.52.00:228][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/SciFi_Props/Models/SM_Box_4] ([1] browsable assets)...
+[2025.03.28-18.52.00:228][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/SciFi_Props/Models/SM_Box_4]
+[2025.03.28-18.52.00:242][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/SciFi_Props/Models/SM_Box_4
+[2025.03.28-18.52.00:242][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/SM_Box_44C65F2DC4ACA5AE02688A2979A392088.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/SciFi_Props/Models/SM_Box_4.uasset'
+[2025.03.28-18.52.00:244][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/SciFi_Props/Models/SM_Box_3] ([1] browsable assets)...
+[2025.03.28-18.52.00:244][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/SciFi_Props/Models/SM_Box_3]
+[2025.03.28-18.52.00:251][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/SciFi_Props/Models/SM_Box_3
+[2025.03.28-18.52.00:251][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/SM_Box_3524A35204A2BF89C0A26988BDEC7140F.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/SciFi_Props/Models/SM_Box_3.uasset'
+[2025.03.28-18.52.00:252][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/SciFi_Props/Models/SM_Box_2] ([1] browsable assets)...
+[2025.03.28-18.52.00:252][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/SciFi_Props/Models/SM_Box_2]
+[2025.03.28-18.52.00:258][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/SciFi_Props/Models/SM_Box_2
+[2025.03.28-18.52.00:258][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/SM_Box_2FDF635F347327ED50CFA2280D33DEA6A.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/SciFi_Props/Models/SM_Box_2.uasset'
+[2025.03.28-18.52.00:259][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/SciFi_Props/Models/SM_Box_1] ([1] browsable assets)...
+[2025.03.28-18.52.00:259][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/SciFi_Props/Models/SM_Box_1]
+[2025.03.28-18.52.00:273][867]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/SciFi_Props/Models/SM_Box_1
+[2025.03.28-18.52.00:273][867]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/SM_Box_1E4FE82B742360DF8A03CAB9FD5AB6F44.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/LevelPrototyping/SciFi_Props/Models/SM_Box_1.uasset'
+[2025.03.28-18.52.00:275][867]LogFileHelpers: InternalPromptForCheckoutAndSave took 177.823 ms (total: 8.98 sec)
+[2025.03.28-18.52.00:417][867]LogTexture: Display: Building textures: /Game/LevelPrototyping/SciFi_Props/Maps/Lvl_Showroom_BuiltData.Lvl_Showroom_BuiltData:LQ_Lightmap_0_1 (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 31.166582 MB), EncodeSpeed: Fast
+[2025.03.28-18.52.00:417][867]LogTexture: Display: Building textures: /Game/LevelPrototyping/SciFi_Props/Maps/Lvl_Showroom_BuiltData.Lvl_Showroom_BuiltData:HQ_Lightmap0_1 (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 46.416656 MB), EncodeSpeed: Fast
+[2025.03.28-18.52.00:429][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.03.28-18.52.00:443][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.03.28-18.52.00:455][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.03.28-18.52.00:484][867]LogAssetRegistry: Warning: C:/Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/SciFi_Props\Models\SM_Box_1.uasset: package was marked as deleted in editor, but has been modified on disk. It will once again be returned from AssetRegistry queries.
+[2025.03.28-18.52.00:484][867]LogAssetRegistry: Warning: C:/Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/SciFi_Props\Models\SM_Box_6.uasset: package was marked as deleted in editor, but has been modified on disk. It will once again be returned from AssetRegistry queries.
+[2025.03.28-18.52.00:484][867]LogAssetRegistry: Warning: C:/Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/SciFi_Props\Models\SM_Box_5.uasset: package was marked as deleted in editor, but has been modified on disk. It will once again be returned from AssetRegistry queries.
+[2025.03.28-18.52.00:484][867]LogAssetRegistry: Warning: C:/Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/SciFi_Props\Models\SM_Box_3.uasset: package was marked as deleted in editor, but has been modified on disk. It will once again be returned from AssetRegistry queries.
+[2025.03.28-18.52.00:484][867]LogAssetRegistry: Warning: C:/Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/SciFi_Props\Models\SM_Box_2.uasset: package was marked as deleted in editor, but has been modified on disk. It will once again be returned from AssetRegistry queries.
+[2025.03.28-18.52.00:484][867]LogAssetRegistry: Warning: C:/Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/SciFi_Props\Models\SM_Box_7.uasset: package was marked as deleted in editor, but has been modified on disk. It will once again be returned from AssetRegistry queries.
+[2025.03.28-18.52.00:484][867]LogAssetRegistry: Warning: C:/Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/SciFi_Props\Models\SM_Box_8.uasset: package was marked as deleted in editor, but has been modified on disk. It will once again be returned from AssetRegistry queries.
+[2025.03.28-18.52.00:484][867]LogAssetRegistry: Warning: C:/Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/SciFi_Props\Models\SM_Box_9.uasset: package was marked as deleted in editor, but has been modified on disk. It will once again be returned from AssetRegistry queries.
+[2025.03.28-18.52.00:503][867]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.03.28-18.52.00:503][867]LogContentValidation: Display: Starting to validate 76 assets
+[2025.03.28-18.52.00:503][867]LogContentValidation: Enabled validators:
+[2025.03.28-18.52.00:503][867]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.28-18.52.00:503][867]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.28-18.52.00:503][867]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.28-18.52.00:503][867]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.28-18.52.00:503][867]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.28-18.52.00:503][867]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.28-18.52.00:503][867]AssetCheck: /Game/LevelPrototyping/Materials/M_Floor Validating asset
+[2025.03.28-18.52.00:503][867]AssetCheck: /Game/LevelPrototyping/Materials/M_Master Validating asset
+[2025.03.28-18.52.00:503][867]AssetCheck: /Game/LevelPrototyping/Materials/M_Master_2 Validating asset
+[2025.03.28-18.52.00:503][867]AssetCheck: /Game/LevelPrototyping/Materials/MI_Box_1_A Validating asset
+[2025.03.28-18.52.00:503][867]AssetCheck: /Game/LevelPrototyping/Materials/MI_Box_6 Validating asset
+[2025.03.28-18.52.00:503][867]AssetCheck: /Game/LevelPrototyping/Materials/MI_Box_5 Validating asset
+[2025.03.28-18.52.00:503][867]AssetCheck: /Game/LevelPrototyping/Materials/MI_Box_4 Validating asset
+[2025.03.28-18.52.00:503][867]AssetCheck: /Game/SciFi_Props/Materials/MI_Box_4 Validating asset
+[2025.03.28-18.52.00:503][867]AssetCheck: /Game/LevelPrototyping/Materials/MI_Box_3 Validating asset
+[2025.03.28-18.52.00:503][867]AssetCheck: /Game/LevelPrototyping/Materials/MI_Box_2 Validating asset
+[2025.03.28-18.52.00:503][867]AssetCheck: /Game/LevelPrototyping/Materials/MI_Box_1_B Validating asset
+[2025.03.28-18.52.00:503][867]AssetCheck: /Game/LevelPrototyping/Materials/MI_Box_7 Validating asset
+[2025.03.28-18.52.00:503][867]AssetCheck: /Game/LevelPrototyping/Materials/MI_Box_8 Validating asset
+[2025.03.28-18.52.00:503][867]AssetCheck: /Game/LevelPrototyping/Materials/MI_Box_9 Validating asset
+[2025.03.28-18.52.00:503][867]AssetCheck: /Game/LevelPrototyping/Materials/MI_Floor Validating asset
+[2025.03.28-18.52.00:503][867]AssetCheck: /Game/SciFi_Props/Materials/MI_Floor Validating asset
+[2025.03.28-18.52.00:503][867]AssetCheck: /Game/LevelPrototyping/Materials/Textures/T_Box_1_A_Emissive Validating asset
+[2025.03.28-18.52.00:503][867]AssetCheck: /Game/LevelPrototyping/Materials/Textures/T_Box_1_A_Metallic Validating asset
+[2025.03.28-18.52.00:503][867]AssetCheck: /Game/LevelPrototyping/Materials/Textures/T_Box_1_A_Normal Validating asset
+[2025.03.28-18.52.00:503][867]AssetCheck: /Game/LevelPrototyping/Materials/Textures/T_Box_1_A_Roughness Validating asset
+[2025.03.28-18.52.00:504][867]AssetCheck: /Game/LevelPrototyping/Materials/Textures/T_Box_1_B_BaseColor Validating asset
+[2025.03.28-18.52.00:504][867]AssetCheck: /Game/LevelPrototyping/Materials/Textures/T_Box_1_B_Metallic Validating asset
+[2025.03.28-18.52.00:504][867]AssetCheck: /Game/LevelPrototyping/Materials/Textures/T_Box_4_Metallic Validating asset
+[2025.03.28-18.52.00:504][867]AssetCheck: /Game/LevelPrototyping/Materials/Textures/T_Box_4_Emissive Validating asset
+[2025.03.28-18.52.00:504][867]AssetCheck: /Game/LevelPrototyping/Materials/Textures/T_Box_4_BaseColor Validating asset
+[2025.03.28-18.52.00:504][867]AssetCheck: /Game/LevelPrototyping/Materials/Textures/T_Box_3_Roughness Validating asset
+[2025.03.28-18.52.00:504][867]AssetCheck: /Game/LevelPrototyping/Materials/Textures/T_Box_3_Normal Validating asset
+[2025.03.28-18.52.00:504][867]AssetCheck: /Game/LevelPrototyping/Materials/Textures/T_Box_3_Metallic Validating asset
+[2025.03.28-18.52.00:504][867]AssetCheck: /Game/LevelPrototyping/Materials/Textures/T_Box_3_Emissive Validating asset
+[2025.03.28-18.52.00:504][867]AssetCheck: /Game/LevelPrototyping/Materials/Textures/T_Box_3_BaseColor Validating asset
+[2025.03.28-18.52.00:504][867]AssetCheck: /Game/LevelPrototyping/Materials/Textures/T_Box_2_Roughness Validating asset
+[2025.03.28-18.52.00:504][867]AssetCheck: /Game/LevelPrototyping/Materials/Textures/T_Box_2_Normal Validating asset
+[2025.03.28-18.52.00:504][867]AssetCheck: /Game/LevelPrototyping/Materials/Textures/T_Box_2_Metallic Validating asset
+[2025.03.28-18.52.00:504][867]AssetCheck: /Game/LevelPrototyping/Materials/Textures/T_Box_2_Emissive Validating asset
+[2025.03.28-18.52.00:504][867]AssetCheck: /Game/LevelPrototyping/Materials/Textures/T_Box_2_BaseColor Validating asset
+[2025.03.28-18.52.00:504][867]AssetCheck: /Game/LevelPrototyping/Materials/Textures/T_Box_1_BaseColor Validating asset
+[2025.03.28-18.52.00:504][867]AssetCheck: /Game/LevelPrototyping/Materials/Textures/T_Box_1_B_Roughness Validating asset
+[2025.03.28-18.52.00:504][867]AssetCheck: /Game/LevelPrototyping/Materials/Textures/T_Box_1_B_Normal Validating asset
+[2025.03.28-18.52.00:504][867]AssetCheck: /Game/LevelPrototyping/Materials/Textures/T_Box_4_Normal Validating asset
+[2025.03.28-18.52.00:504][867]AssetCheck: /Game/LevelPrototyping/Materials/Textures/T_Box_4_Roughness Validating asset
+[2025.03.28-18.52.00:504][867]AssetCheck: /Game/LevelPrototyping/Materials/Textures/T_Box_5_BaseColor Validating asset
+[2025.03.28-18.52.00:504][867]AssetCheck: /Game/LevelPrototyping/Materials/Textures/T_Box_5_Emissive Validating asset
+[2025.03.28-18.52.00:504][867]AssetCheck: /Game/LevelPrototyping/Materials/Textures/T_Box_5_Metallic Validating asset
+[2025.03.28-18.52.00:504][867]AssetCheck: /Game/LevelPrototyping/Materials/Textures/T_Box_5_Normal Validating asset
+[2025.03.28-18.52.00:504][867]AssetCheck: /Game/LevelPrototyping/Materials/Textures/T_Box_5_Roughness Validating asset
+[2025.03.28-18.52.00:504][867]AssetCheck: /Game/LevelPrototyping/Materials/Textures/T_Box_6_BaseColor Validating asset
+[2025.03.28-18.52.00:504][867]AssetCheck: /Game/LevelPrototyping/Materials/Textures/T_Box_6_Emissive Validating asset
+[2025.03.28-18.52.00:504][867]AssetCheck: /Game/LevelPrototyping/Materials/Textures/T_Box_6_Metallic Validating asset
+[2025.03.28-18.52.00:504][867]AssetCheck: /Game/LevelPrototyping/Materials/Textures/T_Box_8_Metallic Validating asset
+[2025.03.28-18.52.00:504][867]AssetCheck: /Game/LevelPrototyping/Materials/Textures/T_Box_8_Emissive Validating asset
+[2025.03.28-18.52.00:504][867]AssetCheck: /Game/LevelPrototyping/Materials/Textures/T_Box_8_BaseColor Validating asset
+[2025.03.28-18.52.00:504][867]AssetCheck: /Game/LevelPrototyping/Materials/Textures/T_Box_7_Roughness Validating asset
+[2025.03.28-18.52.00:504][867]AssetCheck: /Game/LevelPrototyping/Materials/Textures/T_Box_7_Normal Validating asset
+[2025.03.28-18.52.00:504][867]AssetCheck: /Game/LevelPrototyping/Materials/Textures/T_Box_7_Metallic Validating asset
+[2025.03.28-18.52.00:504][867]AssetCheck: /Game/LevelPrototyping/Materials/Textures/T_Box_7_Emissive Validating asset
+[2025.03.28-18.52.00:504][867]AssetCheck: /Game/LevelPrototyping/Materials/Textures/T_Box_7_BaseColor Validating asset
+[2025.03.28-18.52.00:505][867]AssetCheck: /Game/LevelPrototyping/Materials/Textures/T_Box_6_Roughness Validating asset
+[2025.03.28-18.52.00:505][867]AssetCheck: /Game/LevelPrototyping/Materials/Textures/T_Box_6_Normal Validating asset
+[2025.03.28-18.52.00:505][867]AssetCheck: /Game/LevelPrototyping/Materials/Textures/T_Box_9_Emissive Validating asset
+[2025.03.28-18.52.00:505][867]AssetCheck: /Game/LevelPrototyping/Materials/Textures/T_Box_9_BaseColor Validating asset
+[2025.03.28-18.52.00:505][867]AssetCheck: /Game/LevelPrototyping/Materials/Textures/T_Box_9__Metallic Validating asset
+[2025.03.28-18.52.00:505][867]AssetCheck: /Game/LevelPrototyping/Materials/Textures/T_Box_8_Roughness Validating asset
+[2025.03.28-18.52.00:505][867]AssetCheck: /Game/LevelPrototyping/Materials/Textures/T_Box_8_Normal Validating asset
+[2025.03.28-18.52.00:505][867]AssetCheck: /Game/LevelPrototyping/Materials/Textures/T_Box_9_Roughness Validating asset
+[2025.03.28-18.52.00:505][867]AssetCheck: /Game/LevelPrototyping/Materials/Textures/T_Box_9_Normal Validating asset
+[2025.03.28-18.52.00:505][867]AssetCheck: /Game/LevelPrototyping/SciFi_Props/Maps/Lvl_Showroom Validating asset
+[2025.03.28-18.52.00:505][867]AssetCheck: /Game/LevelPrototyping/SciFi_Props/Maps/Lvl_Showroom_BuiltData Validating asset
+[2025.03.28-18.52.00:506][867]AssetCheck: /Game/LevelPrototyping/SciFi_Props/Models/SM_Box_9 Validating asset
+[2025.03.28-18.52.00:508][867]AssetCheck: /Game/LevelPrototyping/SciFi_Props/Models/SM_Box_8 Validating asset
+[2025.03.28-18.52.00:510][867]AssetCheck: /Game/LevelPrototyping/SciFi_Props/Models/SM_Box_7 Validating asset
+[2025.03.28-18.52.00:512][867]AssetCheck: /Game/LevelPrototyping/SciFi_Props/Models/SM_Box_6 Validating asset
+[2025.03.28-18.52.00:512][867]AssetCheck: /Game/LevelPrototyping/SciFi_Props/Models/SM_Box_5 Validating asset
+[2025.03.28-18.52.00:514][867]AssetCheck: /Game/LevelPrototyping/SciFi_Props/Models/SM_Box_4 Validating asset
+[2025.03.28-18.52.00:518][867]AssetCheck: /Game/LevelPrototyping/SciFi_Props/Models/SM_Box_3 Validating asset
+[2025.03.28-18.52.00:521][867]AssetCheck: /Game/LevelPrototyping/SciFi_Props/Models/SM_Box_2 Validating asset
+[2025.03.28-18.52.00:533][867]AssetCheck: /Game/LevelPrototyping/SciFi_Props/Models/SM_Box_1 Validating asset
+[2025.03.28-18.52.10:424][706]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.03.28-18.52.12:959][706]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.28-18.52.12:977][706]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.03.28-18.52.12:992][706]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.03.28-18.52.13:006][706]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.03.28-18.52.25:175][442]LogObjectTools: Deleting 1 worlds: /Game/LevelPrototyping/SciFi_Props/Maps/Lvl_Showroom.Lvl_Showroom
+[2025.03.28-18.52.25:175][442]LogObjectTools: Currently 16 active worlds: /Game/ThirdPerson/Maps/TutorialMap.TutorialMap, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8, /Engine/Transient.World_9, /Engine/Transient.World_10, /Engine/Transient.World_11, /Engine/Transient.World_12, /Engine/Transient.World_13, /Engine/Transient.World_14
+[2025.03.28-18.52.25:189][442]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.03.28-18.52.26:654][442]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.28-18.52.26:658][442]LogWorld: UWorld::CleanupWorld for Lvl_Showroom, bSessionEnded=true, bCleanupResources=true
+[2025.03.28-18.52.26:658][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.28-18.52.26:677][442]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.03.28-18.52.26:690][442]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.03.28-18.52.26:703][442]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.03.28-18.52.37:344][341]LogMetaData: Removing '/Game/ThirdPerson/sci-fi-drone/BP_Drone.BP_Drone_C' ref from Metadata '/Game/sci-fi-drone/BP_Drone.PackageMetaData'
+[2025.03.28-18.52.37:344][341]LogMetaData: Removing '/Game/ThirdPerson/sci-fi-drone/BP_Drone.BP_Drone:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/sci-fi-drone/BP_Drone.PackageMetaData'
+[2025.03.28-18.52.37:344][341]LogMetaData: Removing '/Game/ThirdPerson/sci-fi-drone/BP_Drone.SKEL_BP_Drone_C:ReceiveControllerChanged' ref from Metadata '/Game/sci-fi-drone/BP_Drone.PackageMetaData'
+[2025.03.28-18.52.37:344][341]LogMetaData: Removing '/Game/ThirdPerson/sci-fi-drone/BP_Drone.SKEL_BP_Drone_C:UserConstructionScript' ref from Metadata '/Game/sci-fi-drone/BP_Drone.PackageMetaData'
+[2025.03.28-18.52.37:344][341]LogMetaData: Removing '/Game/ThirdPerson/sci-fi-drone/BP_Drone.SKEL_BP_Drone_C' ref from Metadata '/Game/sci-fi-drone/BP_Drone.PackageMetaData'
+[2025.03.28-18.52.37:344][341]LogMetaData: Removing '/Game/ThirdPerson/sci-fi-drone/BP_Drone.BP_Drone_C:ReceiveControllerChanged' ref from Metadata '/Game/sci-fi-drone/BP_Drone.PackageMetaData'
+[2025.03.28-18.52.37:494][341]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.28-18.52.37:494][341]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode] ([2] browsable assets)...
+[2025.03.28-18.52.37:494][341]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode]
+[2025.03.28-18.52.37:500][341]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode
+[2025.03.28-18.52.37:500][341]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/BP_ThirdPersonGameModeC693B77646DAE58AFF370496C26B5704.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset'
+[2025.03.28-18.52.37:502][341]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/sci-fi-drone/BP_Drone] ([2] browsable assets)...
+[2025.03.28-18.52.37:502][341]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/sci-fi-drone/BP_Drone]
+[2025.03.28-18.52.37:534][341]LogSavePackage: Moving output files for package: /Game/ThirdPerson/sci-fi-drone/BP_Drone
+[2025.03.28-18.52.37:534][341]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/BP_DroneE17B6BF84AF6891F36C92EBE9CDC296C.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/ThirdPerson/sci-fi-drone/BP_Drone.uasset'
+[2025.03.28-18.52.37:537][341]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/sci-fi-drone/Drone_PhysicsAsset] ([1] browsable assets)...
+[2025.03.28-18.52.37:537][341]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/sci-fi-drone/Drone_PhysicsAsset]
+[2025.03.28-18.52.37:552][341]LogSavePackage: Moving output files for package: /Game/ThirdPerson/sci-fi-drone/Drone_PhysicsAsset
+[2025.03.28-18.52.37:552][341]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/Drone_PhysicsAssetA7D73C2C451215A263EA01B8D1BA1190.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/ThirdPerson/sci-fi-drone/Drone_PhysicsAsset.uasset'
+[2025.03.28-18.52.37:553][341]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/sci-fi-drone/Drone_Skeleton] ([1] browsable assets)...
+[2025.03.28-18.52.37:553][341]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/sci-fi-drone/Drone_Skeleton]
+[2025.03.28-18.52.37:556][341]LogSavePackage: Moving output files for package: /Game/ThirdPerson/sci-fi-drone/Drone_Skeleton
+[2025.03.28-18.52.37:556][341]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/Drone_Skeleton90E92FA54251864935565FACB26D1661.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/ThirdPerson/sci-fi-drone/Drone_Skeleton.uasset'
+[2025.03.28-18.52.37:557][341]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/sci-fi-drone/Drone_Anim] ([1] browsable assets)...
+[2025.03.28-18.52.37:557][341]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/sci-fi-drone/Drone_Anim]
+[2025.03.28-18.52.37:565][341]LogSavePackage: Moving output files for package: /Game/ThirdPerson/sci-fi-drone/Drone_Anim
+[2025.03.28-18.52.37:565][341]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/Drone_AnimC0D6D2C6400FDB93B923C3B1914C00EE.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/ThirdPerson/sci-fi-drone/Drone_Anim.uasset'
+[2025.03.28-18.52.37:566][341]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/sci-fi-drone/texture] ([1] browsable assets)...
+[2025.03.28-18.52.37:566][341]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/sci-fi-drone/texture]
+[2025.03.28-18.52.37:567][341]LogSavePackage: Moving output files for package: /Game/ThirdPerson/sci-fi-drone/texture
+[2025.03.28-18.52.37:567][341]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/texture6C02853F46D164234472D1833400FE47.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/ThirdPerson/sci-fi-drone/texture.uasset'
+[2025.03.28-18.52.37:568][341]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/sci-fi-drone/Drone_material_0] ([1] browsable assets)...
+[2025.03.28-18.52.37:568][341]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/sci-fi-drone/Drone_material_0]
+[2025.03.28-18.52.37:570][341]LogSavePackage: Moving output files for package: /Game/ThirdPerson/sci-fi-drone/Drone_material_0
+[2025.03.28-18.52.37:570][341]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/Drone_material_0DB7B17BD4941BD98187BDBB715CD5C0C.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/ThirdPerson/sci-fi-drone/Drone_material_0.uasset'
+[2025.03.28-18.52.37:574][341]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/sci-fi-drone/Drone] ([1] browsable assets)...
+[2025.03.28-18.52.37:574][341]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/sci-fi-drone/Drone]
+[2025.03.28-18.52.37:591][341]LogSavePackage: Moving output files for package: /Game/ThirdPerson/sci-fi-drone/Drone
+[2025.03.28-18.52.37:592][341]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/Drone221F9F90408CBF82CFB5A1A9094B4A56.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/ThirdPerson/sci-fi-drone/Drone.uasset'
+[2025.03.28-18.52.37:593][341]LogFileHelpers: InternalPromptForCheckoutAndSave took 98.298 ms (total: 9.08 sec)
+[2025.03.28-18.52.37:709][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.03.28-18.52.37:723][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.03.28-18.52.37:737][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.03.28-18.52.37:768][341]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.03.28-18.52.37:768][341]LogContentValidation: Display: Starting to validate 8 assets
+[2025.03.28-18.52.37:768][341]LogContentValidation: Enabled validators:
+[2025.03.28-18.52.37:768][341]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.28-18.52.37:768][341]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.28-18.52.37:768][341]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.28-18.52.37:768][341]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.28-18.52.37:768][341]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.28-18.52.37:768][341]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.28-18.52.37:768][341]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode Validating asset
+[2025.03.28-18.52.37:768][341]AssetCheck: /Game/ThirdPerson/sci-fi-drone/BP_Drone Validating asset
+[2025.03.28-18.52.37:769][341]AssetCheck: /Game/ThirdPerson/sci-fi-drone/Drone_PhysicsAsset Validating asset
+[2025.03.28-18.52.37:769][341]AssetCheck: /Game/ThirdPerson/sci-fi-drone/Drone_Skeleton Validating asset
+[2025.03.28-18.52.37:769][341]AssetCheck: /Game/ThirdPerson/sci-fi-drone/Drone_Anim Validating asset
+[2025.03.28-18.52.37:769][341]AssetCheck: /Game/ThirdPerson/sci-fi-drone/texture Validating asset
+[2025.03.28-18.52.37:769][341]AssetCheck: /Game/ThirdPerson/sci-fi-drone/Drone_material_0 Validating asset
+[2025.03.28-18.52.37:769][341]AssetCheck: /Game/ThirdPerson/sci-fi-drone/Drone Validating asset
+[2025.03.28-18.52.50:705][475]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.03.28-18.52.58:701][475]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.28-18.53.02:919][805]Cmd: DELETE
+[2025.03.28-18.53.02:919][805]Cmd: ACTOR DELETE
+[2025.03.28-18.53.02:950][805]LogEditorActor: Deleted Actor: BP_Laser_C
+[2025.03.28-18.53.02:972][805]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.03.28-18.53.02:975][805]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2025.03.28-18.53.09:429][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.03.28-18.53.16:337][371]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.28-18.53.26:948][299]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.03.28-18.53.27:920][299]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.28-18.53.27:933][299]LogUObjectGlobals: Force Deleting 3 Package(s):
+	Asset Name: /Game/Obsticles/BP_Laser.Default__BP_Laser_C
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/Obsticles/BP_Laser.BP_Laser_C
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/Obsticles/BP_Laser.BP_Laser
+	Asset Type: ObjectRedirector
+[2025.03.28-18.53.28:204][299]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
