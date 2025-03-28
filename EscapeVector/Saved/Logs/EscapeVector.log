@@ -3272,3 +3272,86 @@ FPackageName: Skipped package /Game/StarterContent/Maps/Advanced_Lighting_BuiltD
 	Asset Name: /Game/Obsticles/BP_Laser.BP_Laser
 	Asset Type: ObjectRedirector
 [2025.03.28-18.53.28:204][299]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.03.28-18.55.00:797][968]LogShaderCompilers: Display: ================================================
+[2025.03.28-18.55.00:797][968]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.28-18.55.00:797][968]LogShaderCompilers: Display: Total job queries 548, among them cache hits 27 (4.93%), DDC hits 497 (90.69%), Duplicates 4 (0.73%)
+[2025.03.28-18.55.00:797][968]LogShaderCompilers: Display: Tracking 517 distinct input hashes that result in 369 distinct outputs (71.37%)
+[2025.03.28-18.55.00:797][968]LogShaderCompilers: Display: RAM used: 241.08 KiB of 819.20 MiB budget. Usage: 0.03%
+[2025.03.28-18.55.00:797][968]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.28-18.55.00:797][968]LogShaderCompilers: Display: Shaders Compiled: 20
+[2025.03.28-18.55.00:797][968]LogShaderCompilers: Display: Jobs assigned 20, completed 20 (100%)
+[2025.03.28-18.55.00:797][968]LogShaderCompilers: Display: Average time worker was idle: 679.80 s
+[2025.03.28-18.55.00:797][968]LogShaderCompilers: Display: Time job spent in pending queue: average 6.15 s, longest 17.50 s
+[2025.03.28-18.55.00:797][968]LogShaderCompilers: Display: Job execution time: average 10.12 s, max 17.49 s
+[2025.03.28-18.55.00:797][968]LogShaderCompilers: Display: Job life time (pending + execution): average 16.27 s, max 19.44
+[2025.03.28-18.55.00:797][968]LogShaderCompilers: Display: Shader code size: average 7.986 KiB, min 4.34 KiB, max 12.332 KiB
+[2025.03.28-18.55.00:797][968]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 30.69 s
+[2025.03.28-18.55.00:797][968]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.03%
+[2025.03.28-18.55.00:797][968]LogShaderCompilers: Display: Jobs were issued in 20 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.03.28-18.55.00:797][968]LogShaderCompilers: Display: Average processing rate: 0.65 jobs/sec
+[2025.03.28-18.55.00:797][968]LogShaderCompilers: Display: Total thread time: 19.446 s
+[2025.03.28-18.55.00:797][968]LogShaderCompilers: Display: Total thread preprocess time: 9.825 s
+[2025.03.28-18.55.00:797][968]LogShaderCompilers: Display: Percentage time preprocessing: 50.53%
+[2025.03.28-18.55.00:797][968]LogShaderCompilers: Display: Effective parallelization: 0.63 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.03.28-18.55.00:797][968]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.03.28-18.55.00:797][968]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    4 times, average 1.74 sec, max 1.89 sec, min 1.36 sec)
+[2025.03.28-18.55.00:797][968]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 0.96 sec, max 1.03 sec, min 0.79 sec)
+[2025.03.28-18.55.00:797][968]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    4 times, average 0.79 sec, max 0.86 sec, min 0.62 sec)
+[2025.03.28-18.55.00:797][968]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    4 times, average 0.72 sec, max 0.80 sec, min 0.46 sec)
+[2025.03.28-18.55.00:797][968]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    4 times, average 0.66 sec, max 0.80 sec, min 0.49 sec)
+[2025.03.28-18.55.00:797][968]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.03.28-18.55.00:797][968]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 35.71% of total time (compiled    4 times, average 1.74 sec, max 1.89 sec, min 1.36 sec)
+[2025.03.28-18.55.00:797][968]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 19.75% of total time (compiled    4 times, average 0.96 sec, max 1.03 sec, min 0.79 sec)
+[2025.03.28-18.55.00:797][968]LogShaderCompilers: Display:                                                 FLumenCardPS - 16.28% of total time (compiled    4 times, average 0.79 sec, max 0.86 sec, min 0.62 sec)
+[2025.03.28-18.55.00:797][968]LogShaderCompilers: Display:                                                 FLumenCardVS - 14.72% of total time (compiled    4 times, average 0.72 sec, max 0.80 sec, min 0.46 sec)
+[2025.03.28-18.55.00:797][968]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 13.55% of total time (compiled    4 times, average 0.66 sec, max 0.80 sec, min 0.49 sec)
+[2025.03.28-18.55.00:797][968]LogShaderCompilers: Display: === Material stats ===
+[2025.03.28-18.55.00:797][968]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.03.28-18.55.00:797][968]LogShaderCompilers: Display: Materials Translated:    213
+[2025.03.28-18.55.00:797][968]LogShaderCompilers: Display: Material Total Translate Time: 0.13 s
+[2025.03.28-18.55.00:797][968]LogShaderCompilers: Display: Material Translation Only: 0.09 s (69%)
+[2025.03.28-18.55.00:797][968]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (4%)
+[2025.03.28-18.55.00:797][968]LogShaderCompilers: Display: Material Cache Hits: 112 (53%)
+[2025.03.28-18.55.00:797][968]LogShaderCompilers: Display: ================================================
+[2025.03.28-18.55.31:145][ 59]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2034.705566
+[2025.03.28-18.55.32:145][ 62]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.28-18.55.32:145][ 62]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2035.372681, Update Interval: 319.433563
+[2025.03.28-19.01.35:013][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.03.28-19.01.35:016][ 14]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/TutorialMap' took 0.019
+[2025.03.28-19.01.44:311][ 42]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2407.874512
+[2025.03.28-19.01.45:311][ 45]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.28-19.01.45:311][ 45]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2408.541504, Update Interval: 341.925110
+[2025.03.28-19.02.56:856][230]Cmd: TRANSACTION UNDO
+[2025.03.28-19.02.56:856][230]LogEditorTransaction: Undo Set Scale
+[2025.03.28-19.02.59:605][417]Cmd: TRANSACTION UNDO
+[2025.03.28-19.02.59:605][417]LogEditorTransaction: Undo Set Scale
+[2025.03.28-19.08.16:208][593]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2799.773682
+[2025.03.28-19.08.16:275][598]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.28-19.08.16:276][598]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2799.829346, Update Interval: 325.144806
+[2025.03.28-19.08.35:289][ 15]LogSlate: Took 0.001271 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2025.03.28-19.10.10:300][189]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.28-19.10.10:370][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.03.28-19.10.10:385][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.03.28-19.10.10:398][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.03.28-19.10.10:402][189]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/TutorialMap/3/9N/XR3WDYX6X4E5V412W407AL
+[2025.03.28-19.10.10:403][189]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/XR3WDYX6X4E5V412W407AL74418BE74439679474422E80F400289D.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/__ExternalActors__/ThirdPerson/Maps/TutorialMap/3/9N/XR3WDYX6X4E5V412W407AL.uasset'
+[2025.03.28-19.10.10:405][189]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/TutorialMap/4/4R/G0R0T73NZ3L3H3I1G6BWSC
+[2025.03.28-19.10.10:406][189]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/G0R0T73NZ3L3H3I1G6BWSC0A621DB74093984415DFAA93A3523443.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/__ExternalActors__/ThirdPerson/Maps/TutorialMap/4/4R/G0R0T73NZ3L3H3I1G6BWSC.uasset'
+[2025.03.28-19.10.10:409][189]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/TutorialMap/C/KE/M80I8OZCS9V3Z47YV0TOJB
+[2025.03.28-19.10.10:410][189]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/M80I8OZCS9V3Z47YV0TOJBC28A7C3B40F7B6EF0E254690907BAFBA.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/__ExternalActors__/ThirdPerson/Maps/TutorialMap/C/KE/M80I8OZCS9V3Z47YV0TOJB.uasset'
+[2025.03.28-19.10.10:413][189]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/TutorialMap/C/SJ/P5CP97232AG3OX08NUIFXK
+[2025.03.28-19.10.10:414][189]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/P5CP97232AG3OX08NUIFXKD19D854544F86233B81D13B4AD683162.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/__ExternalActors__/ThirdPerson/Maps/TutorialMap/C/SJ/P5CP97232AG3OX08NUIFXK.uasset'
+[2025.03.28-19.10.10:417][189]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/TutorialMap/E/1Z/428ZMHW1ESMTG4R50M49FC
+[2025.03.28-19.10.10:418][189]LogSavePackage: Moving '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Saved/428ZMHW1ESMTG4R50M49FCFCAAC1044EF0EFA88C1F7FA316377B16.tmp' to '../../../../../../Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/__ExternalActors__/ThirdPerson/Maps/TutorialMap/E/1Z/428ZMHW1ESMTG4R50M49FC.uasset'
+[2025.03.28-19.10.10:429][189]LogFileHelpers: InternalPromptForCheckoutAndSave took 127.760 ms (total: 9.21 sec)
+[2025.03.28-19.10.10:457][189]LogContentValidation: Display: Starting to validate 5 assets
+[2025.03.28-19.10.10:457][189]LogContentValidation: Enabled validators:
+[2025.03.28-19.10.10:457][189]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.28-19.10.10:457][189]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.28-19.10.10:457][189]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.28-19.10.10:457][189]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.28-19.10.10:457][189]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.28-19.10.10:457][189]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.28-19.10.10:458][189]AssetCheck: /Game/ThirdPerson/Maps/TutorialMap Validating asset
+[2025.03.28-19.11.35:612][477]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.03.28-19.11.35:613][477]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/TutorialMap' took 0.013
