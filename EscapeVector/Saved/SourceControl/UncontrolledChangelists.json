@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Omega/Documents/GitHub/EscapeVector/EscapeVector/Content/__ExternalActors__/ThirdPerson/Maps/TutorialMap/A/V8/O1QW7EN1V5Y4LPOJ77ZMZ5.uasset",
+				"C:/Users/Omega/Documents/GitHub/EscapeVector/EscapeVector/Content/Actors/BP_DummyOfficer.uasset",
+				"C:/Users/Omega/Documents/GitHub/EscapeVector/EscapeVector/Content/Actors/AI_Controller.uasset",
+				"C:/Users/Omega/Documents/GitHub/EscapeVector/EscapeVector/Content/ThirdPerson/sci-fi-drone/BP_Drone.uasset",
+				"C:/Users/Omega/Documents/GitHub/EscapeVector/EscapeVector/Content/__ExternalActors__/ThirdPerson/Maps/TutorialMap/6/RL/DWOO91BTDBMCPA1Y4E7OH7.uasset",
 				"C:/Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/ThirdPerson/UI/MainMenu_WB.uasset",
 				"C:/Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/ThirdPerson/UI/ControlsMenu_WB.uasset",
 				"C:/Users/kensh/Documents/GitHub/CIS450-OS-Project/EscapeVector/EscapeVector/Content/ThirdPerson/Maps/UIMaps/MainMenuMap.umap",
